@@ -6,6 +6,8 @@ layout: default
 
 ## 2015
 
+- Uyeda, J.C., D.S. Caetano, and M.W. Pennell. In press. Comparative analysis of principal components can be misleading. Systematic Biology. [link](http://sysbio.oxfordjournals.org/content/early/2015/04/03/sysbio.syv019.abstract) - [pdf](uyeda-sysbio-2015.pdf) - [github](https://github.com/mwpennell/phyloPCA)
+
 - Des Roches, S., L. J. Harmon. and E. B. Rosenblum. In press. Colonization of a novel depauperate habitat leads to trophic niche shifts in three desert lizard species. Oikos.
 
 - Hagey, T. J., N. Cole, D. Davidson, A. Henricks, L. L. Harmon, and L. J. Harmon. In press. Temporal Variation in Structural Microhabitat Use of Phelsuma Geckos in Mauritius. Journal of Herpetology.
@@ -14,21 +16,23 @@ layout: default
 
 - Tank, D. C., J. M. Eastman, M. W. Pennell, P. S. Soltis, D. E. Soltis, C. E. Hinchliff, J. W. Brown, and L. J. Harmon. In press. Nested radiations and the pulse of angiosperm diversification. New Phytologist.
 
-- Deans, A. R. and 55 others. 2015. Finding our way through phenotypes. PLoS Biology 13: e1002033.
+- Pennell, M.W.\*, M. Kirkpatrick\*, S.P. Otto\*, J.C. Vamosi, C.L. Piechel, N. Valenzuela, and J. Kitano. 2015. Y fuse? Sex chromosome fusions in fishes and reptiles. PLoS Genetics 11:e1005237. [link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005237) - [pdf](../assets/pennell-plosgen-2015.pdf)
 
-- Rosindell, J., L. J. Harmon, and R. S. Etienne. 2015. Unifying ecology and macroevolution with individual-based theory. Ecology Letters 18: 472-482.
+- Deans, A. R. and 55 others. 2015. Finding our way through phenotypes. PLoS Biology 13: e1002033. [OA](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002033)
 
-- Harmon, L. J. and S. Harrison. 2015. Species diversity is dynamic and unbounded at local and continental scales. The American Naturalist 185: 584-593.
+- Rosindell, J., L. J. Harmon, and R. S. Etienne. 2015. Unifying ecology and macroevolution with individual-based theory. Ecology Letters 18: 472-482. [link](http://onlinelibrary.wiley.com/doi/10.1111/ele.12430/abstract) - [pdf](../assets/Rosindelletal2015.pdf)
 
-- Hardwick, K. M., L. J. Harmon, S. D. Hardwick, and E. B. Rosenblum. 2015. When field experiments yield unexpected results: lessons learned from measuring selection in White Sands lizards. PLoS ONE 10: e0118560.
+- Harmon, L. J. and S. Harrison. 2015. Species diversity is dynamic and unbounded at local and continental scales. The American Naturalist 185: 584-593. [link](http://www.jstor.org/stable/info/10.1086/680859) - [pdf](../assets/HarmonandHarrison2015.pdf) - [counter argument] (http://www.jstor.org/stable/10.1086/680850)
 
-- Des Roches, S., M. Brinkmeyer, L. J. Harmon, and E. B. Rosenblum. 2015. Ecological release and directional change in White Sands lizard trophic ecomorphology. Evolutionary Ecology 29: 1-16.
+- Hardwick, K. M., L. J. Harmon, S. D. Hardwick, and E. B. Rosenblum. 2015. When field experiments yield unexpected results: lessons learned from measuring selection in White Sands lizards. PLoS ONE 10: e0118560. [OA](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118560)
 
-- Nuismer, S. L. and L. J. Harmon. 2015. Predicting rates of interspecific interaction from phylogenetic trees. Ecology Letters 18: 17-28.
+- Des Roches, S., M. Brinkmeyer, L. J. Harmon, and E. B. Rosenblum. 2015. Ecological release and directional change in White Sands lizard trophic ecomorphology. Evolutionary Ecology 29: 1-16. [link](http://link.springer.com/article/10.1007%2Fs10682-014-9740-9) - [pdf](../assets/DesRochesetal2015.pdf)
+
+- Nuismer, S. L. and L. J. Harmon. 2015. Predicting rates of interspecific interaction from phylogenetic trees. Ecology Letters 18: 17-28. [link](http://onlinelibrary.wiley.com/doi/10.1111/ele.12384/abstract) - [pdf](../assets/NuismerandHarmon2015.pdf)
 
 ## 2014
 
-- Jochimsen, D. M., C. R. Peterson, and L. J. Harmon. 2014. Influence of ecology and landscape on snake road mortality in a sagebrush-steppe ecosystem. Animal Conservation 17: 583-592.
+- Jochimsen, D. M., C. R. Peterson, and L. J. Harmon. 2014. Influence of ecology and landscape on snake road mortality in a sagebrush-steppe ecosystem. Animal Conservation 17: 583-592. [link](http://onlinelibrary.wiley.com/doi/10.1111/acv.12125/abstract) - [pdf](../assets/Jochimsenetal2014.pdf)
 
 - Muschick, M., P. Nosil, M. Roesti, M. T. Dittman, L. Harmon, and W. Salzburger. 2014. Testing the stages model in the adaptive radiation of cichlid fishes in East African Lake Tanganyika. Proceedings of the Royal Society B 281: 20140605.
 
@@ -88,7 +92,7 @@ layout: default
 
 - Wagner, C. E., L. J. Harmon, and O. Seehausen. 2012. Ecological opportunity and sexual selection together predict adaptive radiation. Nature 487: 366-369.
 
-- Rosenblum, E. B.*, B. A. J. Sarver, J. W. Brown, S. Des Roches, K. M. Hardwick, T. D. Hether, J. M. Eastman, M. W. Pennell, and L. J. Harmon*. 2012. Goldilocks meets Santa Rosalia: An ephemeral speciation model explains patterns of diversification across time scales. Evolutionary Biology 39: 255-261
+- Rosenblum, E. B., B. A. J. Sarver, J. W. Brown, S. Des Roches, K. M. Hardwick, T. D. Hether, J. M. Eastman, M. W. Pennell, and L. J. Harmon. 2012. Goldilocks meets Santa Rosalia: An ephemeral speciation model explains patterns of diversification across time scales. Evolutionary Biology 39: 255-261
 
 - Godsoe, W. and L. J. Harmon. 2012. How do species interactions affect species distribution models? Ecography 35: 811-820.
 
