@@ -4,7 +4,11 @@ layout: default
 
 ### Papers
 
-- Hagey, T. J., N. Cole, D. Davidson, A. Henricks, L. L. Harmon, and L. J. Harmon. In press. Temporal Variation in Structural Microhabitat Use of Phelsuma Geckos in Mauritius. J Herp.
+## 2015
+
+- Des Roches, S., L. J. Harmon. and E. B. Rosenblum. In press. Colonization of a novel depauperate habitat leads to trophic niche shifts in three desert lizard species. Oikos.
+
+- Hagey, T. J., N. Cole, D. Davidson, A. Henricks, L. L. Harmon, and L. J. Harmon. In press. Temporal Variation in Structural Microhabitat Use of Phelsuma Geckos in Mauritius. Journal of Herpetology.
 
 - Pennell, M. W., R. G. FitzJohn, W. K. Cornwell, and L. J. Harmon. In press. Model adequacy and the macroevolution of angiosperm functional traits. American Naturalist.
 
@@ -21,6 +25,8 @@ layout: default
 - Des Roches, S., M. Brinkmeyer, L. J. Harmon, and E. B. Rosenblum. 2015. Ecological release and directional change in White Sands lizard trophic ecomorphology. Evolutionary Ecology 29: 1-16.
 
 - Nuismer, S. L. and L. J. Harmon. 2015. Predicting rates of interspecific interaction from phylogenetic trees. Ecology Letters 18: 17-28.
+
+## 2014
 
 - Jochimsen, D. M., C. R. Peterson, and L. J. Harmon. 2014. Influence of ecology and landscape on snake road mortality in a sagebrush-steppe ecosystem. Animal Conservation 17: 583-592.
 
@@ -46,6 +52,8 @@ layout: default
 
 - Anderson, C. J. R. and L. J. Harmon. 2014. Ecological and mutation-order speciation in digital  organisms. American Naturalist 183: 257-268.
 
+## 2013
+
 - Slater, G. J. and L. J. Harmon. 2013. Unifying fossils and phylogenies for comparative analyses of diversification and trait evolution. Methods in Ecology and Evolution 4: 699-702.
 
 - Pennell, M. W. and L. J. Harmon. 2013. An Integrative View of Phylogenetic Comparative Methods: Connections to Population Genetics, Paleobiology and Community Ecology. The Year in Evolutionary Biology 1289: 90-105.
@@ -61,6 +69,14 @@ layout: default
 - Rosindell, J. and L. J. Harmon. 2013. A unified model of species immigration, extinction and abundance on islands. Journal of Biogeography 40: 1107-118.
 
 - Tyerman, J. G., J. M. Ponciano, P. Joyce, L. J. Forney and L. J. Harmon. 2013. The evolution of antibiotic susceptibility and resistance during the formation of Escherichia coli biofilms. BMC Evolutionary Biology 13: 22.
+
+- Harmon, L. J. 2013. Is character displacement central to ecology and evolutionary biology? Ecology 94: 2658-2659.
+
+- Harmon, L. J. 2013. “Convergent Evolution.” In Oxford Bibliographies in Evolutionary Biology. Ed. Jonathan Losos. New York: Oxford University Press, forthcoming.
+
+- Harmon, L. J. 2013. Macroevolutionary rates. In: J. B. Losos, Ed., The Princeton Guide to Evolution. Princeton University Press.
+
+## 2012
 
 - Slater, G. J., L. J. Harmon, and M. E. Alfaro. 2012. Integrating Fossils with Molecular Phylogenies Improves Inference of Trait Evolution. Evolution 12: 3931-3944.
 
@@ -80,6 +96,10 @@ layout: default
 
 - Slater, G. J., L. J. Harmon, P. Joyce, L J. Revell, and M. E. Alfaro. 2012. Fitting models of continuous trait evolution to incompletely sampled comparative data using Approximate Bayesian Computation. Evolution 66: 752-762.
 
+- Harmon, L. J. 2012. An inordinate fondness for eukaryotic diversity. PLoS Biology 10: e1001382.
+
+## 2011
+
 - Stack, J., L. J. Harmon, and B. O’Meara. 2011. RBrownie: An R package for testing hypotheses about rates of evolutionary change. Methods in Ecology and Evolution 2: 660-662.
 
 - Eastman, J. M., M. E. Alfaro, P. Joyce, A. L. Hipp, and L. J. Harmon. 2011. A novel comparative method for modeling shifts in the rate of character evolution on trees. Evolution 65: 3578-3589.
@@ -98,6 +118,12 @@ layout: default
 
 - Rosenblum, E. B. and L. J. Harmon. 2011. Same same but different: replicated ecological speciation at White Sands. Evolution 65: 946-960.
 
+- McInnes, L., W. J. Baker, T. G. Barraclough, K. K. Dasmahapatra, A. Goswami, L. J. Harmon, H. Morlon, A. Purvis, J. Rosindell, G. H. Thomas, S. T. Turvey, and A. B. Phillimore. 2011. Integrating ecology into macroevolutionary research (meeting report). Biology Letters 7: 644-646.
+
+- Harmon, L. J. 2011. My island life. In: J. B. Losos, editor. Evolution Emerging: Essays from Leading Evolutionary Biologists. Roberts & Company Publishers.
+
+## 2010
+
 - Arnegard, M. E., P. B. McIntyre, L. J. Harmon, M. L. Zelditch, W. G. R. Crampton, J. K. Davis, J.  P. Sullivan, S. Lavoué, and C. D. Hopkins. 2010. Sexual signal evolution outpaces ecological divergence during electric fish species radiation. American Naturalist 176:335-356.
 
 - Yoder, J. B., S. Des Roches, J. M. Eastman, L. Gentry, W. K. W. Godsoe, T. Hagey, D. Jochimsen, B. P. Oswald, J. Robertson, B. A. J. Sarver, J. J. Schenk, S. F. Spear, and L. J. Harmon. 2010. Ecological opportunity and the origin of adaptive radiations. Journal of Evolutionary Biology 23: 1581-1596, doi:10.1111/j.1420-9101.2010.02029.x.
@@ -110,6 +136,12 @@ layout: default
 
 - Hagey, T. J., J. B. Losos, and L. J. Harmon. 2010. Cruise foraging of invasive chameleons (Chamaeleo jacksonii) in Hawaii. Breviora 519:1-7.
 
+- Harmon, L. J. 2010. Journal Club: An evolutionary biologist ponders the pace of evolution. Nature 463: 1003.
+
+- Harmon, L. J. and S. Braude. 2010. Conservation of Small Populations: Effective Population Size, Inbreeding, and the 50/500 Rule. pp. 125-138 in S. Braude and B. S. Low, Eds., An Introduction to Methods and Models in Ecology and Conservation Biology. Princeton University Press.
+
+## 2009
+
 - Alfaro, M. E., F. Santini, C. Brock, H. Alamillo, A. Dornburg, D. L. Rabosky, G. Carnevale, and L. J. Harmon. 2009. Nine exceptional radiations plus high turnover explain species diversity in jawed vertebrates. PNAS 106:13410-13414.
 
 - Santini, F., L. J. Harmon, G. Carnevale, and M. E. Alfaro. 2009. Did genome duplication drive the origin of teleosts? A comparative study of diversification in ray-finned fishes. BMC Evlutionary Biology 9: 194.
@@ -119,6 +151,12 @@ layout: default
 - Harmon, L. J.*, B. Matthews*, S. Des Roches, J. Chase, J. Shurin, and D. Schluter. 2009. Evolutionary diversification in stickleback affects ecosystem functioning. Nature 458: 1167-1170.
 
 - Nosil, P., L. J. Harmon, and O. Seehausen. 2009. Ecological explanations for (incomplete) speciation. Trends in Ecology and Evolution 24:145-156.
+
+- Bailey, J. K., A. Hendry, M. Kennison, D. Post, E. Palkovacs, F. Pelletier, L. J. Harmon, and J. A. Schweitzer. 2009. From Genes to Ecosystems: An Emerging Synthesis of Eco-Evolutionary Dynamics. New Phytologist 184: 746–749.
+
+- Nosil, P. and L. J. Harmon. 2009. Niche dimensionality and ecological speciation. In: R. Butlin, J. Bridle, and D. Schluter, editors. Speciation and Patterns of Diversity. Cambridge University Press.
+
+## 2008
 
 - Pinto, G., D. L. Mahler, L. J. Harmon, and J. B. Losos. 2008. Testing the island effect in adaptive radiation: rates and patterns of morphological diversification in Caribbean and mainland Anolis lizards. Proceedings of the Royal Society B 275: 2749-2757.
 
@@ -130,6 +168,8 @@ layout: default
 
 - Harmon, L. J., J. Weir, C. Brock, R. E. Glor, and W. Challenger.  2008.  GEIGER: Investigating evolutionary radiations. Bioinformatics 24:129-131.
 
+## 2007
+
 - Harmon, L. J., L. L. Harmon, and C. G. Jones.  2007.  Competition and community structure in diurnal arboreal geckos (genus Phelsuma) in the Indian Ocean. Oikos 116: 1863-1878, DOI: 10.1111/j.2007.0030-1299.15958.x.
 
 - Vellend, M., L. J. Harmon, J. L. Lockwood, M. M. Mayfield, A. R. Hughes, J. P. Wares, and D. F. Sax. 2007. Effects of exotic species on evolutionary diversification. Trends in Ecology and Evolution 22: 481-488.
@@ -138,9 +178,15 @@ layout: default
 
 - Revell, L. J., L. J. Harmon, R. B. Langerhans, and J. J. Kolbe.  2007.  A phylogenetic approach to determining the importance of constraint on phenotypic evolution in the neotropical lizard Anolis cristatellus. Evolutionary Ecology Research 9: 261-282.
 
+- Mooers, A.O., Harmon, L.J., Wong, D.H.J., and S.B. Heard. 2007. Some models of phylogenetic tree shape. Pages 147-168 in New Mathematical Models for Evolution (O. Gascuel and M. Steel, eds.), Oxford University Press, Oxford.
+
+## 2006
+
 - Harmon, L. J. and R. Gibson. 2006. Multivariate phenotypic evolution among island and mainland populations of the ornate day gecko, Phelsuma ornata. Evolution 60: 2622-2632.
 
 - Melville, J., L. J. Harmon, and J. B. Losos. 2006. Intercontinental community convergence of ecology and morphology in desert lizards. Proceedings of the Royal Society Series B: Biological Sciences 273: 557-563.
+
+## 2005
 
 - Harmon, L. J. and J. B. Losos. 2005. The effect of intraspecific sample size on type I and type II error rates in comparative studies. Evolution 59:2705-2710.
 
@@ -154,34 +200,18 @@ layout: default
 
 - Harmon, L. J., J. J. Kolbe, J. M. Cheverud, and J. B. Losos. 2005. Convergence and the multidimensional niche. Evolution 59: 409-421.
 
+## 2003
+
 - Harmon, L. J., J. A. Schulte, J. B. Losos, and A. Larson.  2003.  Tempo and mode of evolutionary radiation in iguanian lizards.  Science 301: 961-964.
+
+## 2002
 
 - Harmon, L. J.  2002.  Some observations of the natural history of the prehensile-tailed skink, Corucia zebrata, in the Solomon Islands. Herpetological Review 33: 177-179.
 
+## 2000
+
 - Harmon, L. J. 2000. A Translocation Strategy for Confiscated Pancake Tortoises. Chelonian Conservation and Biology 3(4):738-743.
 
+## 1999
+
 - Kolbe, J. J., L. J. Harmon, and D. A. Warner. 1999. New state record lengths and associated natural history notes for some Illinois snakes. Transactions of the Illinois State Academy of Science 92:133-135.
-
-### Book chapters and other publications
-
-- Harmon, L. J. 2013. Is character displacement central to ecology and evolutionary biology? Ecology 94: 2658-2659.
-
-- Harmon, L. J. 2013. “Convergent Evolution.” In Oxford Bibliographies in Evolutionary Biology. Ed. Jonathan Losos. New York: Oxford University Press, forthcoming.
-
-- Harmon, L. J. 2013. Macroevolutionary rates. In: J. B. Losos, Ed., The Princeton Guide to Evolution. Princeton University Press.
-
-- Harmon, L. J. 2012. An inordinate fondness for eukaryotic diversity. PLoS Biology 10: e1001382.
-
-- McInnes, L., W. J. Baker, T. G. Barraclough, K. K. Dasmahapatra, A. Goswami, L. J. Harmon, H. Morlon, A. Purvis, J. Rosindell, G. H. Thomas, S. T. Turvey, and A. B. Phillimore. 2011. Integrating ecology into macroevolutionary research (meeting report). Biology Letters 7: 644-646.
-
-- Harmon, L. J. 2011. My island life. In: J. B. Losos, editor. Evolution Emerging: Essays from Leading Evolutionary Biologists. Roberts & Company Publishers.
-
-- Harmon, L. J. 2010. Journal Club: An evolutionary biologist ponders the pace of evolution. Nature 463: 1003.
-
-- Harmon, L. J. and S. Braude. 2010. Conservation of Small Populations: Effective Population Size, Inbreeding, and the 50/500 Rule. pp. 125-138 in S. Braude and B. S. Low, Eds., An Introduction to Methods and Models in Ecology and Conservation Biology. Princeton University Press.
-
-- Bailey, J. K., A. Hendry, M. Kennison, D. Post, E. Palkovacs, F. Pelletier, L. J. Harmon, and J. A. Schweitzer. 2009. From Genes to Ecosystems: An Emerging Synthesis of Eco-Evolutionary Dynamics. New Phytologist 184: 746–749.
-
-- Nosil, P. and L. J. Harmon. 2009. Niche dimensionality and ecological speciation. In: R. Butlin, J. Bridle, and D. Schluter, editors. Speciation and Patterns of Diversity. Cambridge University Press.
-
-- Mooers, A.O., Harmon, L.J., Wong, D.H.J., and S.B. Heard. 2007. Some models of phylogenetic tree shape. Pages 147-168 in New Mathematical Models for Evolution (O. Gascuel and M. Steel, eds.), Oxford University Press, Oxford.
