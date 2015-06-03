@@ -4,13 +4,13 @@ layout: default
 
 ### Papers
 
-- Hagey, T. J., N. Cole, D. Davidson, A. Henricks, L. L. Harmon, and L. J. Harmon. Temporal Variation in Structural Microhabitat Use of Phelsuma Geckos in Mauritius. Submitted to Copeia 16 June 2013.
+- Hagey, T. J., N. Cole, D. Davidson, A. Henricks, L. L. Harmon, and L. J. Harmon. In press. Temporal Variation in Structural Microhabitat Use of Phelsuma Geckos in Mauritius. J Herp.
 
 - Pennell, M. W., R. G. FitzJohn, W. K. Cornwell, and L. J. Harmon. In press. Model adequacy and the macroevolution of angiosperm functional traits. American Naturalist.
 
 - Tank, D. C., J. M. Eastman, M. W. Pennell, P. S. Soltis, D. E. Soltis, C. E. Hinchliff, J. W. Brown, and L. J. Harmon. In press. Nested radiations and the pulse of angiosperm diversification. New Phytologist.
 
-- Deans, A. R. and 55 others including L. J. Harmon. 2015. Finding our way through phenotypes. PLoS Biology 13: e1002033.
+- Deans, A. R. and 55 others. 2015. Finding our way through phenotypes. PLoS Biology 13: e1002033.
 
 - Rosindell, J., L. J. Harmon, and R. S. Etienne. 2015. Unifying ecology and macroevolution with individual-based theory. Ecology Letters 18: 472-482.
 
