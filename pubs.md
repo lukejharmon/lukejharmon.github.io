@@ -82,7 +82,7 @@ layout: default
 
 - Pennell, M. W., J. M. Eastman, G. J. Slater, J. W. Brown, J. C. Uyeda, R. G. Fitzjohn, M. E. Alfaro, and L. J. Harmon. 2014. geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees. Bioinformatics 30: 2216-2218.
 [link](http://bioinformatics.oxfordjournals.org/content/30/15/2216) -
-[pdf](../assets/Bioinformatics-2014-Pennell-2216-8)
+[pdf](../assets/Bioinformatics-2014-Pennell-2216-8.pdf)
 
 - Pennell, M. W., L. J. Harmon, and J. C. Uyeda. 2014. Is there room for punctuated equilibrium in macroevolution? Trends in Ecology and Evolution 29: 23-32.
 [link](http://www.sciencedirect.com/science/article/pii/S0169534713001997) -
@@ -214,7 +214,7 @@ layout: default
 ## 2011
 - Akçay, C., W. Searcy, S.E. Campbell, V.A. Reed, C.N. Templeton, K.M. Hardwick, and M. Beecher. 2011. Who initiates extra-pair copulations in song sparrows? Behavioral Ecology 23: 44-50.
 [link](http://beheco.oxfordjournals.org/content/23/1/44.short) -
-[pdf](../assets/Behavioral Ecology-2012-Akcay-44-50)
+[pdf](../assets/Behavioral Ecology-2012-Akcay-44-50.pdf)
 
 - Brock, C. D. , L. J. Harmon, and M. E. Alfaro. 2011. Testing for Temporal Variation in Diversification Rates When Sampling is Incomplete and Nonrandom. Systematic Biology 60: 410-419.
 [link](http://sysbio.oxfordjournals.org/content/60/4/410) -
@@ -264,84 +264,147 @@ all [talks](http://vimeo.com/cee2011) from the meeting - [mine](http://vimeo.com
 ## 2010
 
 - Arnegard, M. E., P. B. McIntyre, L. J. Harmon, M. L. Zelditch, W. G. R. Crampton, J. K. Davis, J.  P. Sullivan, S. Lavoué, and C. D. Hopkins. 2010. Sexual signal evolution outpaces ecological divergence during electric fish species radiation. American Naturalist 176:335-356.
+[link](http://www.journals.uchicago.edu/doi/abs/10.1086/655221) -
+[pdf](../assets/arnegardetal_2010.pdf)
 
-- Yoder, J. B., S. Des Roches, J. M. Eastman, L. Gentry, W. K. W. Godsoe, T. Hagey, D. Jochimsen, B. P. Oswald, J. Robertson, B. A. J. Sarver, J. J. Schenk, S. F. Spear, and L. J. Harmon. 2010. Ecological opportunity and the origin of adaptive radiations. Journal of Evolutionary Biology 23: 1581-1596, doi:10.1111/j.1420-9101.2010.02029.x.
-
-- Harmon, L. J., J. B. Losos, J. Davies, R. G. Gillespie, J. L. Gittleman, W. B. Jennings, K. Kozak, M. A. McPeek, F. Moreno-Roark, T. J. Near, A. Purvis, R. E. Ricklefs, D. Schluter, J. A. Schulte II, O. Seehausen, B. Sidlauskas, O. Torres-Carvajal, J. T. Weir, & A. Ø. Mooers. 2010. Early bursts of body size and shape evolution are rare in comparative data. Evolution 64: 2385-2396.  doi:10.1111/j.1558-5646.2010.01025.x.
-
-- Harmon, L. J. and R. E. Glor. 2010. Poor statistical performance of the Mantel test in phylogenetic comparative analyses. Evolution 64: 2173-2178, doi:10.1111/j.1558-5646.2010.00973.x.
-
-- Matthews, B., L. J. Harmon, L. M'Gonigle, K. B. Marchinko, and H. Schaschl. 2010. Sympatric and allopatric divergence of MHC genes in threespine stickleback. PLoS ONE 5:e10948.
-
-- Hagey, T. J., J. B. Losos, and L. J. Harmon. 2010. Cruise foraging of invasive chameleons (Chamaeleo jacksonii) in Hawaii. Breviora 519:1-7.
+- Hagey, T. J., J. B. Losos, and L. J. Harmon. 2010. Cruise foraging of invasive chameleons (*Chamaeleo jacksonii*) in Hawaii. Breviora 519:1-7.
+[link](http://www.bioone.org/doi/abs/10.3099/0006-9698-519.1.1) -
+[pdf](../assets/hageyetal_2010.pdf)
 
 - Harmon, L. J. 2010. Journal Club: An evolutionary biologist ponders the pace of evolution. Nature 463: 1003.
+[link](http://www.nature.com/nature/journal/v463/n7284/full/4631003e.html) -
+[pdf](../assets/harmon2010JC.pdf)
 
 - Harmon, L. J. and S. Braude. 2010. Conservation of Small Populations: Effective Population Size, Inbreeding, and the 50/500 Rule. pp. 125-138 in S. Braude and B. S. Low, Eds., An Introduction to Methods and Models in Ecology and Conservation Biology. Princeton University Press.
+[book](http://press.princeton.edu/titles/9242.html)
+
+- Harmon, L. J. and R. E. Glor. 2010. Poor statistical performance of the Mantel test in phylogenetic comparative analyses. Evolution 64: 2173-2178, doi:10.1111/j.1558-5646.2010.00973.x.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2010.00973.x/abstract) -
+[pdf](../assets/HarmonGlor_2010_Evolution.pdf)
+
+- Harmon, L. J., J. B. Losos, J. Davies, R. G. Gillespie, J. L. Gittleman, W. B. Jennings, K. Kozak, M. A. McPeek, F. Moreno-Roark, T. J. Near, A. Purvis, R. E. Ricklefs, D. Schluter, J. A. Schulte II, O. Seehausen, B. Sidlauskas, O. Torres-Carvajal, J. T. Weir, & A. Ø. Mooers. 2010. Early bursts of body size and shape evolution are rare in comparative data. Evolution 64: 2385-2396.  doi:10.1111/j.1558-5646.2010.01025.x.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2010.01025.x/abstract) -
+[pdf](../assets/harmonetal_2010_earlyBurst.pdf)
+
+- Matthews, B., L. J. Harmon, L. M'Gonigle, K. B. Marchinko, and H. Schaschl. 2010. Sympatric and allopatric divergence of MHC genes in threespine stickleback. PLoS ONE 5:e10948.
+[OA](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0010948) -
+
+- Yoder, J. B., S. Des Roches, J. M. Eastman, L. Gentry, W. K. W. Godsoe, T. Hagey, D. Jochimsen, B. P. Oswald, J. Robertson, B. A. J. Sarver, J. J. Schenk, S. F. Spear, and L. J. Harmon. 2010. Ecological opportunity and the origin of adaptive radiations. Journal of Evolutionary Biology 23: 1581-1596, doi:10.1111/j.1420-9101.2010.02029.x.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2010.02029.x/abstract) -
+[pdf](../assets/yoderetal_2010.pdf)
 
 ## 2009
 
 - Alfaro, M. E., F. Santini, C. Brock, H. Alamillo, A. Dornburg, D. L. Rabosky, G. Carnevale, and L. J. Harmon. 2009. Nine exceptional radiations plus high turnover explain species diversity in jawed vertebrates. PNAS 106:13410-13414.
-
-- Santini, F., L. J. Harmon, G. Carnevale, and M. E. Alfaro. 2009. Did genome duplication drive the origin of teleosts? A comparative study of diversification in ray-finned fishes. BMC Evlutionary Biology 9: 194.
-
-- Ingram, T., L. J. Harmon, and J. B. Shurin.  2009. Niche evolution, trophic structure and species turnover in model food webs. American Naturalist 174: 56-67.
-
-- Harmon, L. J.*, B. Matthews*, S. Des Roches, J. Chase, J. Shurin, and D. Schluter. 2009. Evolutionary diversification in stickleback affects ecosystem functioning. Nature 458: 1167-1170.
-
-- Nosil, P., L. J. Harmon, and O. Seehausen. 2009. Ecological explanations for (incomplete) speciation. Trends in Ecology and Evolution 24:145-156.
+[link](http://www.pnas.org/content/106/32/13410) -
+[pdf](../assets/alfaro_et_al_2009.pdf)
 
 - Bailey, J. K., A. Hendry, M. Kennison, D. Post, E. Palkovacs, F. Pelletier, L. J. Harmon, and J. A. Schweitzer. 2009. From Genes to Ecosystems: An Emerging Synthesis of Eco-Evolutionary Dynamics. New Phytologist 184: 746–749.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2009.03081.x/abstract) -
+[pdf](../assets/Baileyetal_2009.pdf)
+
+- Harmon, L. J.\*, B. Matthews\*, S. Des Roches, J. Chase, J. Shurin, and D. Schluter. 2009. Evolutionary diversification in stickleback affects ecosystem functioning. Nature 458: 1167-1170.
+[link](http://www.nature.com/nature/journal/v458/n7242/full/nature07974.html) -
+[pdf](../assets/Harmonetal_nature07974.pdf)
+
+- Ingram, T., L. J. Harmon, and J. B. Shurin.  2009. Niche evolution, trophic structure and species turnover in model food webs. American Naturalist 174: 56-67.
+[link](http://www.journals.uchicago.edu/doi/abs/10.1086/599301) -
+[pdf](../assets/ingrametal_2009.pdf)
 
 - Nosil, P. and L. J. Harmon. 2009. Niche dimensionality and ecological speciation. In: R. Butlin, J. Bridle, and D. Schluter, editors. Speciation and Patterns of Diversity. Cambridge University Press.
+[book](http://www.cambridge.org/uk/catalogue/catalogue.asp?isbn=9780521709637&ss=fro) -
+
+- Nosil, P., L. J. Harmon, and O. Seehausen. 2009. Ecological explanations for (incomplete) speciation. Trends in Ecology and Evolution 24:145-156.
+[link](http://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(09)00024-X) -
+[pdf](pdf/Nosiletal,TREE2009.pdf)
+
+- Santini, F., L. J. Harmon, G. Carnevale, and M. E. Alfaro. 2009. Did genome duplication drive the origin of teleosts? A comparative study of diversification in ray-finned fishes. BMC Evlutionary Biology 9: 194.
+[OA](http://www.biomedcentral.com/1471-2148/9/194)
 
 ## 2008
 
-- Pinto, G., D. L. Mahler, L. J. Harmon, and J. B. Losos. 2008. Testing the island effect in adaptive radiation: rates and patterns of morphological diversification in Caribbean and mainland Anolis lizards. Proceedings of the Royal Society B 275: 2749-2757.
-
-- Revell, L. J., L. J. Harmon, and D. C. Collar. 2008. Phylogenetic signal, evolutionary process, and rate. Systematic Biology 57: 591-601.
-
-- Harmon, L. J., J. Melville, A. Larson, and J. B. Losos. 2008. The Role of Geography and Ecological Opportunity in the Diversification of Day Geckos (Phelsuma). Systematic Biology 57: 562-573.
-
-- Revell, L. J. and L. J. Harmon. 2008. Testing quantitative genetic hypotheses about the evolutionary rate matrix for continuous characters. Evolutionary Ecology Research 10: 311-321.
+- Harmon, L. J., J. Melville, A. Larson, and J. B. Losos. 2008. The Role of Geography and Ecological Opportunity in the Diversification of Day Geckos (*Phelsuma*). Systematic Biology 57: 562-573.
+[link](http://www.informaworld.com/openurl?genre=article&issn=1063-5157&volume=57&issue=4&spage=562) -
+[pdf](../assets/harmonetal_2008_phelsuma.pdf)
 
 - Harmon, L. J., J. Weir, C. Brock, R. E. Glor, and W. Challenger.  2008.  GEIGER: Investigating evolutionary radiations. Bioinformatics 24:129-131.
+[link](http://bioinformatics.oxfordjournals.org/cgi/content/short/24/1/129) -
+[pdf](../assets/geiger.pdf)
+
+- Pinto, G., D. L. Mahler, L. J. Harmon, and J. B. Losos. 2008. Testing the island effect in adaptive radiation: rates and patterns of morphological diversification in Caribbean and mainland Anolis lizards. Proceedings of the Royal Society B 275: 2749-2757.
+[link](http://journals.royalsociety.org/content/8u27345n8544t83w/) -
+[pdf](../assets/pintoetal08.pdf)
+
+- Revell, L. J. and L. J. Harmon. 2008. Testing quantitative genetic hypotheses about the evolutionary rate matrix for continuous characters. Evolutionary Ecology Research 10: 311-321.
+[link](http://www.evolutionary-ecology.com/issues/v10n03/ccar2235.pdf) -
+[pdf](../assets/Revell_and_Harmon_2008.pdf)
+
+- Revell, L. J., L. J. Harmon, and D. C. Collar. 2008. Phylogenetic signal, evolutionary process, and rate. Systematic Biology 57: 591-601.
+[link](http://www.informaworld.com/openurl?genre=article&issn=1063-5157&volume=57&issue=4&spage=591) -
+[pdf](../assets/revelletal_2008.pdf)
 
 ## 2007
 
-- Harmon, L. J., L. L. Harmon, and C. G. Jones.  2007.  Competition and community structure in diurnal arboreal geckos (genus Phelsuma) in the Indian Ocean. Oikos 116: 1863-1878, DOI: 10.1111/j.2007.0030-1299.15958.x.
-
-- Vellend, M., L. J. Harmon, J. L. Lockwood, M. M. Mayfield, A. R. Hughes, J. P. Wares, and D. F. Sax. 2007. Effects of exotic species on evolutionary diversification. Trends in Ecology and Evolution 22: 481-488.
-
-- Nicholson, K. E., L. J. Harmon, and J. B. Losos.  2007.  Evolution of Anolis lizard dewlap diversity. PLoS ONE 2(3): e274. doi:10.1371/journal.pone.0000274.
-
-- Revell, L. J., L. J. Harmon, R. B. Langerhans, and J. J. Kolbe.  2007.  A phylogenetic approach to determining the importance of constraint on phenotypic evolution in the neotropical lizard Anolis cristatellus. Evolutionary Ecology Research 9: 261-282.
+- Harmon, L. J., L. L. Harmon, and C. G. Jones.  2007.  Competition and community structure in diurnal arboreal geckos (genus *Phelsuma*) in the Indian Ocean. Oikos 116: 1863-1878, DOI: 10.1111/j.2007.0030-1299.15958.x.
+[link](http://www3.interscience.wiley.com/journal/118531737/abstract?CRETRY=1&SRETRY=0) -
+[pdf](../assets/harmon_oikos07.pdf)
 
 - Mooers, A.O., Harmon, L.J., Wong, D.H.J., and S.B. Heard. 2007. Some models of phylogenetic tree shape. Pages 147-168 in New Mathematical Models for Evolution (O. Gascuel and M. Steel, eds.), Oxford University Press, Oxford.
+[book](http://www.oup.com/us/catalog/general/subject/Mathematics/ComputationalMathematics/?view=usa&ci=9780199208227)
+
+- Nicholson, K. E., L. J. Harmon, and J. B. Losos.  2007.  Evolution of *Anolis* lizard dewlap diversity. PLoS ONE 2(3): e274. doi:10.1371/journal.pone.0000274.
+[OA](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0000274)
+
+- Revell, L. J., L. J. Harmon, R. B. Langerhans, and J. J. Kolbe.  2007.  A phylogenetic approach to determining the importance of constraint on phenotypic evolution in the neotropical lizard *Anolis cristatellus*. Evolutionary Ecology Research 9: 261-282.
+[link](http://www.evolutionary-ecology.com/issues/v10n03/ccar2235.pdf) -
+[pdf](../assets/revelletal_2007.pdf)
+
+- Vellend, M., L. J. Harmon, J. L. Lockwood, M. M. Mayfield, A. R. Hughes, J. P. Wares, and D. F. Sax. 2007. Effects of exotic species on evolutionary diversification. Trends in Ecology and Evolution 22: 481-488.
+[link](http://dx.doi.org/10.1016/j.tree.2007.02.017) -
+[pdf](../assets/vellend_tree07.pdf)
 
 ## 2006
 
 - Harmon, L. J. and R. Gibson. 2006. Multivariate phenotypic evolution among island and mainland populations of the ornate day gecko, Phelsuma ornata. Evolution 60: 2622-2632.
+[link](http://www3.interscience.wiley.com/journal/118726473/abstract) -
+[pdf](../assets/harmon_gibson.pdf)
 
 - Melville, J., L. J. Harmon, and J. B. Losos. 2006. Intercontinental community convergence of ecology and morphology in desert lizards. Proceedings of the Royal Society Series B: Biological Sciences 273: 557-563.
+[link](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1560059) -
+[pdf](../assets/melville_06.pdf)
 
 ## 2005
 
-- Harmon, L. J. and J. B. Losos. 2005. The effect of intraspecific sample size on type I and type II error rates in comparative studies. Evolution 59:2705-2710.
-
-- Revell, L. J., L. J. Harmon, and R. E. Glor, 2005. Under-parameterized model of sequence evolution leads to bias in the estimation of diversification rates from molecular phylogenies. Systematic Biology 54: 973-983.
-
-- Weisrock, D. W., L. J. Harmon, and A. Larson. 2005. Resolving deep phylogenetic relationships in salamanders: analyses of mitochondrial and nuclear genomic data. Systematic Biology 54:758-777.
-
-- Kozak, K. H., A. Larson, R. M. Bonett, and L. J. Harmon. 2005. Phylogenetic analysis of ecomorphological divergence, species coexistence, and diversification rates in dusky salamanders (Plethodontidae, Desmognathinae). Evolution 59: 2000-2016.
-
 - Harmon, L. J., K. Bauman, M. McCloud, J. Parks, S. Howell, and J. B. Losos. 2005. What the free-ranging animals do at the zoo: a study of the behavior and habitat use of opossums (Didelphis virginiana) on the grounds of the St. Louis Zoo. Zoo Biology 24: 197-213.
+[link](http://www3.interscience.wiley.com/journal/110493985/abstract) -
+[pdf](..assets/harmon_zoobio05.pdf)
 
 - Harmon, L. J., J. J. Kolbe, J. M. Cheverud, and J. B. Losos. 2005. Convergence and the multidimensional niche. Evolution 59: 409-421.
+[link](http://www3.interscience.wiley.com/journal/118734660/abstract) -
+[pdf](..assets/harmon_evol05.pdf)
+
+- Harmon, L. J. and J. B. Losos. 2005. The effect of intraspecific sample size on type I and type II error rates in comparative studies. Evolution 59:2705-2710.
+[link](http://www3.interscience.wiley.com/journal/118734641/abstract) -
+[pdf](..assets/harmonlosos_evol05.pdf)
+
+- Kozak, K. H., A. Larson, R. M. Bonett, and L. J. Harmon. 2005. Phylogenetic analysis of ecomorphological divergence, species coexistence, and diversification rates in dusky salamanders (Plethodontidae, Desmognathinae). Evolution 59: 2000-2016.
+[link](http://www3.interscience.wiley.com/journal/118734825/abstract) -
+[pdf](..assets/pdf/kozak_evol05.pdf)
+
+- Revell, L. J., L. J. Harmon, and R. E. Glor, 2005. Under-parameterized model of sequence evolution leads to bias in the estimation of diversification rates from molecular phylogenies. Systematic Biology 54: 973-983.
+[link](http://www.informaworld.com/openurl?genre=article&issn=1063-5157&volume=54&issue=6&spage=973) -
+[pdf](..assets/revell_05.pdf)
+
+- Weisrock, D. W., L. J. Harmon, and A. Larson. 2005. Resolving deep phylogenetic relationships in salamanders: analyses of mitochondrial and nuclear genomic data. Systematic Biology 54:758-777.
+[link](http://www.informaworld.com/openurl?genre=article&issn=1063-5157&volume=54&issue=5&spage=758) -
+[pdf](..assets/weisrock_sysbio05.pdf)
+
 
 ## 2003
 
 - Harmon, L. J., J. A. Schulte, J. B. Losos, and A. Larson.  2003.  Tempo and mode of evolutionary radiation in iguanian lizards.  Science 301: 961-964.
+[link](http://www.sciencemag.org/cgi/content/full/301/5635/961) -
+[pdf](..assets/harmon_science03.pdf)
 
 ## 2002
 
@@ -354,3 +417,4 @@ all [talks](http://vimeo.com/cee2011) from the meeting - [mine](http://vimeo.com
 ## 1999
 
 - Kolbe, J. J., L. J. Harmon, and D. A. Warner. 1999. New state record lengths and associated natural history notes for some Illinois snakes. Transactions of the Illinois State Academy of Science 92:133-135.
+[pdf](..assets/pdf/kolbeetal.pdf)
