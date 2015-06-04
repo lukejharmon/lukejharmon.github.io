@@ -316,7 +316,7 @@ all [talks](http://vimeo.com/cee2011) from the meeting - [mine](http://vimeo.com
 
 - Nosil, P., L. J. Harmon, and O. Seehausen. 2009. Ecological explanations for (incomplete) speciation. Trends in Ecology and Evolution 24:145-156.
 [link](http://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(09)00024-X) -
-[pdf](pdf/Nosiletal,TREE2009.pdf)
+[pdf](pdf/../assets/Nosiletal,TREE2009.pdf)
 
 - Santini, F., L. J. Harmon, G. Carnevale, and M. E. Alfaro. 2009. Did genome duplication drive the origin of teleosts? A comparative study of diversification in ray-finned fishes. BMC Evlutionary Biology 9: 194.
 [OA](http://www.biomedcentral.com/1471-2148/9/194)
@@ -324,7 +324,7 @@ all [talks](http://vimeo.com/cee2011) from the meeting - [mine](http://vimeo.com
 ## 2008
 
 - Harmon, L. J., J. Melville, A. Larson, and J. B. Losos. 2008. The Role of Geography and Ecological Opportunity in the Diversification of Day Geckos (*Phelsuma*). Systematic Biology 57: 562-573.
-[link](http://www.informaworld.com/openurl?genre=article&issn=1063-5157&volume=57&issue=4&spage=562) -
+[link](http://sysbio.oxfordjournals.org/content/57/4/562.long) -
 [pdf](../assets/harmonetal_2008_phelsuma.pdf)
 
 - Harmon, L. J., J. Weir, C. Brock, R. E. Glor, and W. Challenger.  2008.  GEIGER: Investigating evolutionary radiations. Bioinformatics 24:129-131.
@@ -340,7 +340,7 @@ all [talks](http://vimeo.com/cee2011) from the meeting - [mine](http://vimeo.com
 [pdf](../assets/Revell_and_Harmon_2008.pdf)
 
 - Revell, L. J., L. J. Harmon, and D. C. Collar. 2008. Phylogenetic signal, evolutionary process, and rate. Systematic Biology 57: 591-601.
-[link](http://www.informaworld.com/openurl?genre=article&issn=1063-5157&volume=57&issue=4&spage=591) -
+[link](http://sysbio.oxfordjournals.org/content/57/4/591.full) -
 [pdf](../assets/revelletal_2008.pdf)
 
 ## 2007
@@ -377,34 +377,34 @@ all [talks](http://vimeo.com/cee2011) from the meeting - [mine](http://vimeo.com
 
 - Harmon, L. J., K. Bauman, M. McCloud, J. Parks, S. Howell, and J. B. Losos. 2005. What the free-ranging animals do at the zoo: a study of the behavior and habitat use of opossums (Didelphis virginiana) on the grounds of the St. Louis Zoo. Zoo Biology 24: 197-213.
 [link](http://www3.interscience.wiley.com/journal/110493985/abstract) -
-[pdf](..assets/harmon_zoobio05.pdf)
+[pdf](../assets/harmon_zoobio05.pdf)
 
 - Harmon, L. J., J. J. Kolbe, J. M. Cheverud, and J. B. Losos. 2005. Convergence and the multidimensional niche. Evolution 59: 409-421.
 [link](http://www3.interscience.wiley.com/journal/118734660/abstract) -
-[pdf](..assets/harmon_evol05.pdf)
+[pdf](../assets/harmon_evol05.pdf)
 
 - Harmon, L. J. and J. B. Losos. 2005. The effect of intraspecific sample size on type I and type II error rates in comparative studies. Evolution 59:2705-2710.
 [link](http://www3.interscience.wiley.com/journal/118734641/abstract) -
-[pdf](..assets/harmonlosos_evol05.pdf)
+[pdf](../assets/harmonlosos_evol05.pdf)
 
 - Kozak, K. H., A. Larson, R. M. Bonett, and L. J. Harmon. 2005. Phylogenetic analysis of ecomorphological divergence, species coexistence, and diversification rates in dusky salamanders (Plethodontidae, Desmognathinae). Evolution 59: 2000-2016.
 [link](http://www3.interscience.wiley.com/journal/118734825/abstract) -
-[pdf](..assets/pdf/kozak_evol05.pdf)
+[pdf](../assets/pdf/kozak_evol05.pdf)
 
 - Revell, L. J., L. J. Harmon, and R. E. Glor, 2005. Under-parameterized model of sequence evolution leads to bias in the estimation of diversification rates from molecular phylogenies. Systematic Biology 54: 973-983.
-[link](http://www.informaworld.com/openurl?genre=article&issn=1063-5157&volume=54&issue=6&spage=973) -
-[pdf](..assets/revell_05.pdf)
+[link](http://sysbio.oxfordjournals.org/content/54/6/973.short) -
+[pdf](../assets/revell_05.pdf)
 
 - Weisrock, D. W., L. J. Harmon, and A. Larson. 2005. Resolving deep phylogenetic relationships in salamanders: analyses of mitochondrial and nuclear genomic data. Systematic Biology 54:758-777.
-[link](http://www.informaworld.com/openurl?genre=article&issn=1063-5157&volume=54&issue=5&spage=758) -
-[pdf](..assets/weisrock_sysbio05.pdf)
+[link](http://sysbio.oxfordjournals.org/content/54/5/758.long) -
+[pdf](../assets/weisrock_sysbio05.pdf)
 
 
 ## 2003
 
 - Harmon, L. J., J. A. Schulte, J. B. Losos, and A. Larson.  2003.  Tempo and mode of evolutionary radiation in iguanian lizards.  Science 301: 961-964.
 [link](http://www.sciencemag.org/cgi/content/full/301/5635/961) -
-[pdf](..assets/harmon_science03.pdf)
+[pdf](../assets/harmon_science03.pdf)
 
 ## 2002
 
@@ -417,4 +417,4 @@ all [talks](http://vimeo.com/cee2011) from the meeting - [mine](http://vimeo.com
 ## 1999
 
 - Kolbe, J. J., L. J. Harmon, and D. A. Warner. 1999. New state record lengths and associated natural history notes for some Illinois snakes. Transactions of the Illinois State Academy of Science 92:133-135.
-[pdf](..assets/pdf/kolbeetal.pdf)
+[pdf](../assets/pdf/kolbeetal.pdf)
