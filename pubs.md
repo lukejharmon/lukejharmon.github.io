@@ -8,6 +8,8 @@ layout: default
 
 - Uyeda, J.C., D.S. Caetano, and M.W. Pennell. In press. Comparative analysis of principal components can be misleading. Systematic Biology. [link](http://sysbio.oxfordjournals.org/content/early/2015/04/03/sysbio.syv019.abstract) - [pdf](uyeda-sysbio-2015.pdf) - [github](https://github.com/mwpennell/phyloPCA)
 
+- Pennell, M.W. 2015. Modern Phylogenetic Comparative Methods and Their Application in Evolutionary Biology: Concepts and Practice.—Edited by László Zsolt Garamszegi (Book Review). Systematic Biology 64:161-163.[link](http://sysbio.oxfordjournals.org/content/64/1/161.short) - [pdf](pennell-sysbio-2014.pdf)
+
 - Des Roches, S., L. J. Harmon. and E. B. Rosenblum. In press. Colonization of a novel depauperate habitat leads to trophic niche shifts in three desert lizard species. Oikos.
 
 - Hagey, T. J., N. Cole, D. Davidson, A. Henricks, L. L. Harmon, and L. J. Harmon. In press. Temporal Variation in Structural Microhabitat Use of Phelsuma Geckos in Mauritius. Journal of Herpetology.
@@ -31,6 +33,8 @@ layout: default
 - Nuismer, S. L. and L. J. Harmon. 2015. Predicting rates of interspecific interaction from phylogenetic trees. Ecology Letters 18: 17-28. [link](http://onlinelibrary.wiley.com/doi/10.1111/ele.12384/abstract) - [pdf](../assets/NuismerandHarmon2015.pdf)
 
 ## 2014
+
+- FitzJohn, R.G.\*, M.W. Pennell\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. 2014. How much of the world is woody? Journal of Ecology 102:1266-1272. [link](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12260/full) - [pdf](../assets/fitzjohn-jecol-2014.pdf) - [repo](https://github.com/richfitz/wood) - [site](http://richfitz.github.io/wood/) - [blog1](http://ropensci.org/blog/2014/06/09/reproducibility/) - [blog2](http://jecologyblog.wordpress.com/2014/06/10/how-much-of-the-world-is-woody/)
 
 - Jochimsen, D. M., C. R. Peterson, and L. J. Harmon. 2014. Influence of ecology and landscape on snake road mortality in a sagebrush-steppe ecosystem. Animal Conservation 17: 583-592. [link](http://onlinelibrary.wiley.com/doi/10.1111/acv.12125/abstract) - [pdf](../assets/Jochimsenetal2014.pdf)
 
