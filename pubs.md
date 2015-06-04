@@ -4,6 +4,8 @@ layout: default
 
 ### Papers
 
+Also see my [google scholar](https://scholar.google.com/citations?hl=en&user=nsA3IsgAAAAJ&view_op=list_works) page
+
 ## 2015
 
 - Deans, A. R. and 55 others. 2015. Finding our way through phenotypes. PLoS Biology 13: e1002033. [OA](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002033)
