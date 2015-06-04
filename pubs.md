@@ -316,7 +316,7 @@ all [talks](http://vimeo.com/cee2011) from the meeting - [mine](http://vimeo.com
 
 - Nosil, P., L. J. Harmon, and O. Seehausen. 2009. Ecological explanations for (incomplete) speciation. Trends in Ecology and Evolution 24:145-156.
 [link](http://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(09)00024-X) -
-[pdf](pdf/../assets/NosiletalTREE2009.pdf)
+[pdf](../assets/NosiletalTREE2009.pdf)
 
 - Santini, F., L. J. Harmon, G. Carnevale, and M. E. Alfaro. 2009. Did genome duplication drive the origin of teleosts? A comparative study of diversification in ray-finned fishes. BMC Evlutionary Biology 9: 194.
 [OA](http://www.biomedcentral.com/1471-2148/9/194)
