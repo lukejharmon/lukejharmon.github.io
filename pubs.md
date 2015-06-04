@@ -121,6 +121,10 @@ layout: default
 [link](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12051/abstract) -
 [pdf](Eastman_et_al-2013-Methods_in_Ecology_and_Evolution.pdf)
 
+- Hardwick, K.M., J.M. Robertson, and E.B. Rosenblum. 2013. Asymmetrical mate preference in recently adapted white sands and black lava populations of Sceloporus undulatus. Current Zoology, Special Issue on Ecological Speciation, 59: 20-30.
+[link](http://www.currentzoology.org/paperdetail.asp?id=12181) -
+[pdf](../assets/hardwick-currzool-2013.pdf)
+
 - Harmon, L. J. 2013. Is character displacement central to ecology and evolutionary biology? Ecology 94: 2658-2659.
 [link](http://www.esajournals.org/doi/full/10.1890/0012-9658-94.11.2657) -
 [pdf](../assets/harmon-ecology-2014.pdf)
@@ -160,33 +164,50 @@ layout: default
 
 ## 2012
 
-- Slater, G. J., L. J. Harmon, and M. E. Alfaro. 2012. Integrating Fossils with Molecular Phylogenies Improves Inference of Trait Evolution. Evolution 12: 3931-3944.
-
-- Rosindell, J. and L. J. Harmon. 2012. OneZoom: A Fractal Explorer for the Tree of Life. PLoS Biology 10: e1001406.
-
-- Pennell, M. W., B. A. J. Sarver, and L. J. Harmon. 2012. Trees of Unusual Size: Sampling Bias Can Influence Inference of Early Bursts from Molecular Phylogenies. PLoS ONE 7: e43348.
-
-- Ingram. T., L. J. Harmon, and J. B. Shurin. 2012. When should we expect early bursts of trait evolution in comparative data? Predictions from an evolutionary food web model. Journal of Evolutionary Biology 25: 1902-1910.
-
-- Wagner, C. E., L. J. Harmon, and O. Seehausen. 2012. Ecological opportunity and sexual selection together predict adaptive radiation. Nature 487: 366-369.
-
-- Rosenblum, E. B., B. A. J. Sarver, J. W. Brown, S. Des Roches, K. M. Hardwick, T. D. Hether, J. M. Eastman, M. W. Pennell, and L. J. Harmon. 2012. Goldilocks meets Santa Rosalia: An ephemeral speciation model explains patterns of diversification across time scales. Evolutionary Biology 39: 255-261
-
 - Godsoe, W. and L. J. Harmon. 2012. How do species interactions affect species distribution models? Ecography 35: 811-820.
-
-- Rosindell, J., S. P. Hubbell, F. He, L. J. Harmon, and R. S. Etienne. 2012. The case for ecological neutral theory. Trends in Ecology and Evolution 27: 203-208.
-
-- Slater, G. J., L. J. Harmon, P. Joyce, L J. Revell, and M. E. Alfaro. 2012. Fitting models of continuous trait evolution to incompletely sampled comparative data using Approximate Bayesian Computation. Evolution 66: 752-762.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2011.07103.x/full) -
+[pdf](../assets/godsoeHarmon_2012.pdf)
 
 - Harmon, L. J. 2012. An inordinate fondness for eukaryotic diversity. PLoS Biology 10: e1001382.
+[OA](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001382)
+
+- Ingram. T., L. J. Harmon, and J. B. Shurin. 2012. When should we expect early bursts of trait evolution in comparative data? Predictions from an evolutionary food web model. Journal of Evolutionary Biology 25: 1902-1910.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2012.02566.x/abstract) -
+[pdf](ingrametal_2012.pdf)
 
 - Pennell, M.W. 2012. Biology in the light of phylogeny. Trends in Ecology & Evolution 27:657-658.
 [link](http://www.sciencedirect.com/science/article/pii/S0169534712001899) -
 [pdf](../assets/pennell-tree-2012.pdf)
 
+- Pennell, M. W., B. A. J. Sarver, and L. J. Harmon. 2012. Trees of Unusual Size: Sampling Bias Can Influence Inference of Early Bursts from Molecular Phylogenies. PLoS ONE 7: e43348.
+[OA](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043348)
+
 - Pennell, M.W., C.R. Stansbury, L.P. Waits, and C.R. Miller. 2012. Capwire: a R package for estimating population census size from non-invasive genetic sampling. Molecular Ecology Resources 13:154-157.
 [link](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12019/full) -
 [pdf](../assets/pennell-mer-2012.pdf)
+
+- Rosenblum, E. B., B. A. J. Sarver, J. W. Brown, S. Des Roches, K. M. Hardwick, T. D. Hether, J. M. Eastman, M. W. Pennell, and L. J. Harmon. 2012. Goldilocks meets Santa Rosalia: An ephemeral speciation model explains patterns of diversification across time scales. Evolutionary Biology 39: 255-261
+[OA](http://www.springerlink.com/content/y448570v18572463/)
+
+- Rosindell, J., S. P. Hubbell, F. He, L. J. Harmon, and R. S. Etienne. 2012. The case for ecological neutral theory. Trends in Ecology and Evolution 27: 203-208.
+[link](http://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(12)00023-7) -
+[pdf](../assets/rosindelletal_2012.pdf)
+
+- Rosindell, J. and L. J. Harmon. 2012. OneZoom: A Fractal Explorer for the Tree of Life. PLoS Biology 10: e1001406.
+[OA](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001406) -
+[OneZoom](http://www.onezoom.org/)
+
+- Slater, G. J., L. J. Harmon, P. Joyce, L J. Revell, and M. E. Alfaro. 2012. Fitting models of continuous trait evolution to incompletely sampled comparative data using Approximate Bayesian Computation. Evolution 66: 752-762.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01474.x/abstract) -
+[pdf](../assets/slateretal_2012_ABC.pdf)
+
+- Slater, G. J., L. J. Harmon, and M. E. Alfaro. 2012. Integrating Fossils with Molecular Phylogenies Improves Inference of Trait Evolution. Evolution 12: 3931-3944.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2012.01723.x/abstract) -
+[pdf](../assets/Slater_et_al-2012-Evolution.pdf)
+
+- Wagner, C. E., L. J. Harmon, and O. Seehausen. 2012. Ecological opportunity and sexual selection together predict adaptive radiation. Nature 487: 366-369.
+[link](http://www.nature.com/nature/journal/v487/n7407/full/nature11144.html) -
+[pdf](../assets/wagneretal_2012.pdf)
 
 ## 2011
 
