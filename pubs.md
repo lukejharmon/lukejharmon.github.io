@@ -6,83 +6,157 @@ layout: default
 
 ## 2015
 
-- Uyeda, J.C., D.S. Caetano, and M.W. Pennell. In press. Comparative analysis of principal components can be misleading. Systematic Biology. [link](http://sysbio.oxfordjournals.org/content/early/2015/04/03/sysbio.syv019.abstract) - [pdf](uyeda-sysbio-2015.pdf) - [github](https://github.com/mwpennell/phyloPCA)
+- Deans, A. R. and 55 others. 2015. Finding our way through phenotypes. PLoS Biology 13: e1002033. [OA](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002033)
 
-- Pennell, M.W. 2015. Modern Phylogenetic Comparative Methods and Their Application in Evolutionary Biology: Concepts and Practice.—Edited by László Zsolt Garamszegi (Book Review). Systematic Biology 64:161-163.[link](http://sysbio.oxfordjournals.org/content/64/1/161.short) - [pdf](pennell-sysbio-2014.pdf)
+- Des Roches, S., M. Brinkmeyer, L. J. Harmon, and E. B. Rosenblum. 2015. Ecological release and directional change in White Sands lizard trophic ecomorphology. Evolutionary Ecology 29: 1-16. [link](http://link.springer.com/article/10.1007%2Fs10682-014-9740-9) - [pdf](../assets/DesRochesetal2015.pdf)
 
 - Des Roches, S., L. J. Harmon. and E. B. Rosenblum. In press. Colonization of a novel depauperate habitat leads to trophic niche shifts in three desert lizard species. Oikos.
 
 - Hagey, T. J., N. Cole, D. Davidson, A. Henricks, L. L. Harmon, and L. J. Harmon. In press. Temporal Variation in Structural Microhabitat Use of Phelsuma Geckos in Mauritius. Journal of Herpetology.
 
-- Pennell, M. W., R. G. FitzJohn, W. K. Cornwell, and L. J. Harmon. In press. Model adequacy and the macroevolution of angiosperm functional traits. American Naturalist.
-
-- Tank, D. C., J. M. Eastman, M. W. Pennell, P. S. Soltis, D. E. Soltis, C. E. Hinchliff, J. W. Brown, and L. J. Harmon. In press. Nested radiations and the pulse of angiosperm diversification. New Phytologist.
-
-- Pennell, M.W.\*, M. Kirkpatrick\*, S.P. Otto\*, J.C. Vamosi, C.L. Piechel, N. Valenzuela, and J. Kitano. 2015. Y fuse? Sex chromosome fusions in fishes and reptiles. PLoS Genetics 11:e1005237. [link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005237) - [pdf](../assets/pennell-plosgen-2015.pdf)
-
-- Deans, A. R. and 55 others. 2015. Finding our way through phenotypes. PLoS Biology 13: e1002033. [OA](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002033)
-
-- Rosindell, J., L. J. Harmon, and R. S. Etienne. 2015. Unifying ecology and macroevolution with individual-based theory. Ecology Letters 18: 472-482. [link](http://onlinelibrary.wiley.com/doi/10.1111/ele.12430/abstract) - [pdf](../assets/Rosindelletal2015.pdf)
+- Hardwick, K. M., L. J. Harmon, S. D. Hardwick, and E. B. Rosenblum. 2015. When field experiments yield unexpected results: lessons learned from measuring selection in White Sands lizards. PLoS ONE 10: e0118560. [OA](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118560)
 
 - Harmon, L. J. and S. Harrison. 2015. Species diversity is dynamic and unbounded at local and continental scales. The American Naturalist 185: 584-593. [link](http://www.jstor.org/stable/info/10.1086/680859) - [pdf](../assets/HarmonandHarrison2015.pdf) - [counter argument] (http://www.jstor.org/stable/10.1086/680850)
 
-- Hardwick, K. M., L. J. Harmon, S. D. Hardwick, and E. B. Rosenblum. 2015. When field experiments yield unexpected results: lessons learned from measuring selection in White Sands lizards. PLoS ONE 10: e0118560. [OA](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118560)
-
-- Des Roches, S., M. Brinkmeyer, L. J. Harmon, and E. B. Rosenblum. 2015. Ecological release and directional change in White Sands lizard trophic ecomorphology. Evolutionary Ecology 29: 1-16. [link](http://link.springer.com/article/10.1007%2Fs10682-014-9740-9) - [pdf](../assets/DesRochesetal2015.pdf)
-
 - Nuismer, S. L. and L. J. Harmon. 2015. Predicting rates of interspecific interaction from phylogenetic trees. Ecology Letters 18: 17-28. [link](http://onlinelibrary.wiley.com/doi/10.1111/ele.12384/abstract) - [pdf](../assets/NuismerandHarmon2015.pdf)
+
+- Pennell, M.W. 2015. Modern Phylogenetic Comparative Methods and Their Application in Evolutionary Biology: Concepts and Practice.—Edited by László Zsolt Garamszegi (Book Review). Systematic Biology 64:161-163.
+[link](http://sysbio.oxfordjournals.org/content/64/1/161.short) -
+[pdf](../assets/pennell-sysbio-2015.pdf)
+
+- Pennell, M. W., R. G. FitzJohn, W. K. Cornwell, and L. J. Harmon. In press. Model adequacy and the macroevolution of angiosperm functional traits. American Naturalist.
+[preprint](http://biorxiv.org/content/early/2014/10/31/004002) -
+[github](https://github.com/richfitz/modeladequacy) -
+[poster](http://figshare.com/articles/_In_adequacy_of_phylogenetic_trait_models_Evo_Wibo_poster_/1008468)
+
+- Pennell, M.W.\*, M. Kirkpatrick\*, S.P. Otto\*, J.C. Vamosi, C.L. Piechel, N. Valenzuela, and J. Kitano. 2015. Y fuse? Sex chromosome fusions in fishes and reptiles. PLoS Genetics 11:e1005237. [link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005237) - [pdf](../assets/pennell-plosgen-2015.pdf)
+
+- Rosindell, J., L. J. Harmon, and R. S. Etienne. 2015. Unifying ecology and macroevolution with individual-based theory. Ecology Letters 18: 472-482.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/ele.12430/abstract) -
+[pdf](../assets/Rosindelletal2015.pdf)
+
+- Tank, D. C., J. M. Eastman, M. W. Pennell, P. S. Soltis, D. E. Soltis, C. E. Hinchliff, J. W. Brown, and L. J. Harmon. In press. Nested radiations and the pulse of angiosperm diversification. New Phytologist.
+
+- Uyeda, J.C., D.S. Caetano, and M.W. Pennell. In press. Comparative analysis of principal components can be misleading. Systematic Biology. [link](http://sysbio.oxfordjournals.org/content/early/2015/04/03/sysbio.syv019.abstract) - [pdf](../assets/uyeda-sysbio-2015.pdf) -
+[github](https://github.com/mwpennell/phyloPCA)
 
 ## 2014
 
-- FitzJohn, R.G.\*, M.W. Pennell\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. 2014. How much of the world is woody? Journal of Ecology 102:1266-1272. [link](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12260/full) - [pdf](../assets/fitzjohn-jecol-2014.pdf) - [repo](https://github.com/richfitz/wood) - [site](http://richfitz.github.io/wood/) - [blog1](http://ropensci.org/blog/2014/06/09/reproducibility/) - [blog2](http://jecologyblog.wordpress.com/2014/06/10/how-much-of-the-world-is-woody/)
+- Anderson, C. J. R. and L. J. Harmon. 2014. Ecological and mutation-order speciation in digital organisms. American Naturalist 183: 257-268.
+[link](http://www.jstor.org/stable/10.1086/674359) -
+[pdf](../assets/anderson-amnat-2014.pdf)
 
-- Jochimsen, D. M., C. R. Peterson, and L. J. Harmon. 2014. Influence of ecology and landscape on snake road mortality in a sagebrush-steppe ecosystem. Animal Conservation 17: 583-592. [link](http://onlinelibrary.wiley.com/doi/10.1111/acv.12125/abstract) - [pdf](../assets/Jochimsenetal2014.pdf)
-
-- Muschick, M., P. Nosil, M. Roesti, M. T. Dittman, L. Harmon, and W. Salzburger. 2014. Testing the stages model in the adaptive radiation of cichlid fishes in East African Lake Tanganyika. Proceedings of the Royal Society B 281: 20140605.
-
-- Uyeda, J. C. and L. J. Harmon. 2014. A novel Bayesian method for inferring and interpreting the dynamics of adaptive landscapes from phylogenetic comparative data. Systematic Biology 63: 902-918.
-
-- Pennell, M. W., J. M. Eastman, G. J. Slater, J. W. Brown, J. C. Uyeda, R. G. Fitzjohn, M. E. Alfaro, and L. J. Harmon. 2014. geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees. Bioinformatics 30: 2216-2218.
-
-- Davis, C. C., H. Schaefer, W. R. Anderson, Z. Xi, D. A. Baum, M. J. Donoghue, and L J. Harmon. 2014. Long-term morphological stasis maintained by a plant-pollinator mutualism. PNAS 111: 5914-5919.
+- Cornwell, W.K., M. Westoby, D.S. Falster, R.G. FitzJohn, B.C. O'Meara, M.W. Pennell, D.J. McGlinn, J.M. Eastman, A.T. Moles, P.B. Reich, D.C. Tank, I.J. Wright, L.Aarssen, J.M. Beaulieu, R.M. Kooyman, M.R. Leishman, E.T. Miller, U. Niinemets, J. Oleksyn, A. Ordonez, D.L. Royer, S.A. Smith, P.F. Stevens, L. Warman, P. Wilf, and A.E. Zanne. 2014. Functional distinctiveness of major plant lineages. Journal of Ecology 102:345-356.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12208/full) -
+[pdf](../assets/cornwell-jecol-2014.pdf)
 
 - Cranston, K., L. J. Harmon, M. A. O’Leary, and C. Lisle. 2014. Best practices for data sharing in phylogenetic research. PLoS Currents Tree of Life 2014 Jun 19.
+[OA](http://currents.plos.org/treeoflife/article/best-practices-for-data-sharing-in-phylogenetic-research/)
+
+- Davis, C. C., H. Schaefer, W. R. Anderson, Z. Xi, D. A. Baum, M. J. Donoghue, and L J. Harmon. 2014. Long-term morphological stasis maintained by a plant-pollinator mutualism. PNAS 111: 5914-5919.
+[link](http://www.pnas.org/content/111/16/5914.abstract) -
+[pdf](../assets/PNAS-2014-Davis-5914-9,pdf)
+
+- DesRoches, S., J. Torresdal, T. Morgan, L. J. Harmon, and E. B. Rosenblum. 2014. Beyond black and white: divergent behavior and performance in three rapidly evolving lizard species at White Sands. Biological Journal of the Linnean Society 111: 169-182.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/bij.12165/abstract) -
+[pdf](../assets/DesRoches_et_al-2014-Biological_Journal_of_the_Linnean_Society.pdf)
+
+- FitzJohn, R.G.\*, M.W. Pennell\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. 2014. How much of the world is woody? Journal of Ecology 102:1266-1272. [link](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12260/full) - [pdf](../assets/fitzjohn-jecol-2014.pdf) - [github](https://github.com/richfitz/wood) - [site](http://richfitz.github.io/wood/) - [blog1](http://ropensci.org/blog/2014/06/09/reproducibility/) - [blog2](http://jecologyblog.wordpress.com/2014/06/10/how-much-of-the-world-is-woody/)
 
 - Hagey, T., J. Puthoff, M. Holbrook, L. J. Harmon, and K. Autumn. 2014. Variation in Setal Micromechanics and Performance of Two Gecko Species. Zoomorphology 133: 111-126.
+[link](http://link.springer.com/article/10.1007%2Fs00435-013-0207-2#page-1) -
+[pdf](../assets/hagey-et-al-2014.pdf)
 
-- Wagner, C. E., L. J. Harmon, and O. Seehausen. 2014. Cichlid species-area curves are shaped by adaptive radiations that scale with area. Ecology Letters 17: 538-592.
+- Jochimsen, D. M., C. R. Peterson, and L. J. Harmon. 2014. Influence of ecology and landscape on snake road mortality in a sagebrush-steppe ecosystem. Animal Conservation 17: 583-592. [link](http://onlinelibrary.wiley.com/doi/10.1111/acv.12125/abstract) -
+[pdf](../assets/Jochimsen_et_al-2014-Animal_Conservation.pdf)
 
-- Pennell, M. W., L. J. Harmon, and J. C. Uyeda. 2014. Speciation is unlikely to drive divergence rates. Trends in Ecology and Evolution 29: 72-73.
+- Lanfear, R. and M.W. Pennell. 2014. Open access is worth considering. Trends in Plant Sciences 19:340-341.
+[link](http://www.sciencedirect.com/science/article/pii/S1360138514001058#) -
+[pdf](../assets/lanfear-trpl-2014.pdf)
+
+- Muschick, M., P. Nosil, M. Roesti, M. T. Dittman, L. Harmon, and W. Salzburger. 2014. Testing the stages model in the adaptive radiation of cichlid fishes in East African Lake Tanganyika. Proceedings of the Royal Society B 281: 20140605.
+[link](http://rspb.royalsocietypublishing.org/content/281/1795/20140605) -
+[pdf](../assets/muschick-prsb-2014.pdf)
+
+- Pennell, M. W., J. M. Eastman, G. J. Slater, J. W. Brown, J. C. Uyeda, R. G. Fitzjohn, M. E. Alfaro, and L. J. Harmon. 2014. geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees. Bioinformatics 30: 2216-2218.
+[link](http://bioinformatics.oxfordjournals.org/content/30/15/2216) -
+[pdf](Bioinformatics-2014-Pennell-2216-8)
 
 - Pennell, M. W., L. J. Harmon, and J. C. Uyeda. 2014. Is there room for punctuated equilibrium in macroevolution? Trends in Ecology and Evolution 29: 23-32.
+[link](http://www.sciencedirect.com/science/article/pii/S0169534713001997) -
+[pdf](../assets/pennell-2014-tree.pdf) -
+[rebuttal 1](http://www.sciencedirect.com/science/article/pii/S0169534713002930) -
+[rebuttal 2](http://www.sciencedirect.com/science/article/pii/S0169534714000421) -
+[reply](http://www.sciencedirect.com/science/article/pii/S0169534713003054)
 
-- DesRoches, S., J. Torresdal, T. Morgan, L. J. Harmon, and E. B. Rosenblum. 2014. Beyond black and white: comparative ecomorphology in three rapidly evolving lizard species at White Sands. Biological Journal of the Linnean Society 111: 169-182.
+- Pennell, M. W., L. J. Harmon, and J. C. Uyeda. 2014. Speciation is unlikely to drive divergence rates. Trends in Ecology and Evolution 29: 72-73.
+[link](http://www.sciencedirect.com/science/article/pii/S0169534713003054) -
+[pdf](../assets/pennell-tree-response-2014.pdf)
 
-- Anderson, C. J. R. and L. J. Harmon. 2014. Ecological and mutation-order speciation in digital  organisms. American Naturalist 183: 257-268.
+- Stansbury, C.R., D.E. Ausband, P. Zager, C.M. Mack, C.R. Miller, M.W. Pennell, and L.P. Waits. 2014. A long term population monitoring approach to a wide-ranging carnivore: noninvasive genetic sampling of gray wolf rendezvous sites in Idaho, U.S.A. Journal of Wildlife Management 78:1040-1049.
+[link](http://onlinelibrary.wiley.com/doi/10.1002/jwmg.736/abstract) -
+[pdf](../assets/stansbury-jwm-2014.pdf) -
+[data](http://dx.doi.org/10.6084/m9.figshare.956240)
+
+- The Tree of Sex Consortium; T. Ashman, D. Bachtrog, H. Blackmon, E.E. Goldberg, M.W. Hahn, M. Kirkpatrick, J. Kitano, J.E. Mank, I. Mayrose, R. Ming, S.P. Otto, C.L. Peichel, M.W. Pennell, N. Perrin, L. Ross, N. Valenzuela, and J.C. Vamosi. 2014. Tree of Sex: a database of sexual systems. Scientific Data 1:140015.
+[link](http://www.nature.com/articles/sdata201415) -
+[pdf](../assets/tree-of-sex.pdf) -
+[website](http://treeofsex.org/) -
+[database](http://traitdb-dev.nescent.org/)
+
+- Uyeda, J. C. and L. J. Harmon. 2014. A novel Bayesian method for inferring and interpreting the dynamics of adaptive landscapes from phylogenetic comparative data. Systematic Biology 63: 902-918.
+[link](http://sysbio.oxfordjournals.org/content/63/6/902) -
+[pdf](../assets/Syst Biol-2014-Uyeda-902-18)
+
+- Wagner, C. E., L. J. Harmon, and O. Seehausen. 2014. Cichlid species-area curves are shaped by adaptive radiations that scale with area. Ecology Letters 17: 538-592.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/ele.12260/abstract) -
+[pdf](../assets/Wagner_et_al-2014-Ecology_Letters.pdf)
 
 ## 2013
 
-- Slater, G. J. and L. J. Harmon. 2013. Unifying fossils and phylogenies for comparative analyses of diversification and trait evolution. Methods in Ecology and Evolution 4: 699-702.
-
-- Pennell, M. W. and L. J. Harmon. 2013. An Integrative View of Phylogenetic Comparative Methods: Connections to Population Genetics, Paleobiology and Community Ecology. The Year in Evolutionary Biology 1289: 90-105.
+- Des Roches, S., J. B. Shurin, D. Schluter, and L. J. Harmon. 2013. Ecological and evolutionary effects of stickleback on ecosystem function. PLoS ONE 8: e59644.
+[OA](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0059644)
 
 - Eastman, J. M., L. J. Harmon, and D. C. Tank. 2013. Congruification: support for time-scaling large phylogenetic trees. Methods in Ecology and Evolution 4: 688-691.
-
-- Harmon, L. J., J. Baumes, C. Hughes, J. Soberon, C. Specht, B. Thacker, W. Turner, and C. Lisle. 2013. Arbor: Comparative Analysis Workflows for the Tree of Life. PLoS Currents: Tree of Life: June 21, 2013.
-
-- Stoltzfus, A., H. Lapp, N. Matasci, H. Deus, B. Sidlauskas, C.M. Zmasek, G. Vaidya, E. Pontelli, K. Cranston, R. Vos, C. O. Webb, L. J. Harmon, M. Pirrung, B. O’Meara, M. W. Pennell, S. Mirarab, M. S. Rosenberg, J. P. Balhoff, H. M. Bik, T. Heath, P. Midford, J. W. Brown, E. J. McTavish, J. Sukumaran, M. Westneat, M. E. Alfaro, and A. Steele. 2013. Phylotastic! Making Tree-of-Life Knowledge Accessible, Reusable and Convenient. BMC Bioinformatics 14:158.
-
-- Des Roches, S., J. B. Shurin, D. Schluter, and L. J. Harmon. 2013. Ecological and evolutionary effects of stickleback on ecosystem function. PLoS ONE 8: e59644.
-
-- Rosindell, J. and L. J. Harmon. 2013. A unified model of species immigration, extinction and abundance on islands. Journal of Biogeography 40: 1107-118.
-
-- Tyerman, J. G., J. M. Ponciano, P. Joyce, L. J. Forney and L. J. Harmon. 2013. The evolution of antibiotic susceptibility and resistance during the formation of Escherichia coli biofilms. BMC Evolutionary Biology 13: 22.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12051/abstract) -
+[pdf](Eastman_et_al-2013-Methods_in_Ecology_and_Evolution.pdf)
 
 - Harmon, L. J. 2013. Is character displacement central to ecology and evolutionary biology? Ecology 94: 2658-2659.
+[link](http://www.esajournals.org/doi/full/10.1890/0012-9658-94.11.2657) -
+[pdf](../assets/harmon-ecology-2014.pdf)
 
-- Harmon, L. J. 2013. “Convergent Evolution.” In Oxford Bibliographies in Evolutionary Biology. Ed. Jonathan Losos. New York: Oxford University Press, forthcoming.
+- Harmon, L. J. 2013. “Convergent Evolution.” In Oxford Bibliographies in Evolutionary Biology. Ed. Jonathan Losos. New York: Oxford University Press.
+[link](http://www.oxfordbibliographies.com/view/document/obo-9780199941728/obo-9780199941728-0038.xml) -
+[pdf](Convergent Evolution - Evolutionary Biology - Oxford Bibliographies.pdf)
 
 - Harmon, L. J. 2013. Macroevolutionary rates. In: J. B. Losos, Ed., The Princeton Guide to Evolution. Princeton University Press.
+[link to book](http://www.amazon.com/dp/B00F8MIII6/?tag=princetonuniv-20) -
+
+- Harmon, L. J., J. Baumes, C. Hughes, J. Soberon, C. Specht, B. Thacker, W. Turner, and C. Lisle. 2013. Arbor: Comparative Analysis Workflows for the Tree of Life. PLoS Currents: Tree of Life: June 21, 2013.
+[OA](http://currents.plos.org/treeoflife/article/arbor-comparative-analysis-workflows-for-the-tree-of-life/)
+
+- Maliska, M.E., M.W. Pennell, and B.J. Swalla. 2013. Developmental mode influences diversification in ascidians. Biology Letters 9:20130068.
+[link](http://171.66.127.192/content/9/3/20130068.short) -
+[pdf](../assets/maliska-biolett-2013.pdf)
+
+- Pennell, M. W. and L. J. Harmon. 2013. An Integrative View of Phylogenetic Comparative Methods: Connections to Population Genetics, Paleobiology and Community Ecology. The Year in Evolutionary Biology 1289: 90-105.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/nyas.12157/full) -
+[pdf](../assets/pennell-nyas-2013.pdf)
+
+- Rosindell, J. and L. J. Harmon. 2013. A unified model of species immigration, extinction and abundance on islands. Journal of Biogeography 40: 1107-118.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/jbi.12064/abstract) -
+[pdf](../assets/Rosindell_et_al-2013-Journal_of_Biogeography.pdf)
+
+- Slater, G. J. and L. J. Harmon. 2013. Unifying fossils and phylogenies for comparative analyses of diversification and trait evolution. Methods in Ecology and Evolution 4: 699-702.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12091/abstract) -
+[pdf](../assets/Slater_et_al-2013-Methods_in_Ecology_and_Evolution.pdf)
+
+- Stoltzfus, A., H. Lapp, N. Matasci, H. Deus, B. Sidlauskas, C.M. Zmasek, G. Vaidya, E. Pontelli, K. Cranston, R. Vos, C. O. Webb, L. J. Harmon, M. Pirrung, B. O’Meara, M. W. Pennell, S. Mirarab, M. S. Rosenberg, J. P. Balhoff, H. M. Bik, T. Heath, P. Midford, J. W. Brown, E. J. McTavish, J. Sukumaran, M. Westneat, M. E. Alfaro, and A. Steele. 2013. Phylotastic! Making Tree-of-Life Knowledge Accessible, Reusable and Convenient. BMC Bioinformatics 14:158.
+[OA](http://www.biomedcentral.com/1471-2105/14/158)
+
+- Tyerman, J. G., J. M. Ponciano, P. Joyce, L. J. Forney and L. J. Harmon. 2013. The evolution of antibiotic susceptibility and resistance during the formation of Escherichia coli biofilms. BMC Evolutionary Biology 13: 22.
+[OA](http://www.biomedcentral.com/1471-2148/13/22)
+
 
 ## 2012
 
@@ -105,6 +179,14 @@ layout: default
 - Slater, G. J., L. J. Harmon, P. Joyce, L J. Revell, and M. E. Alfaro. 2012. Fitting models of continuous trait evolution to incompletely sampled comparative data using Approximate Bayesian Computation. Evolution 66: 752-762.
 
 - Harmon, L. J. 2012. An inordinate fondness for eukaryotic diversity. PLoS Biology 10: e1001382.
+
+- Pennell, M.W. 2012. Biology in the light of phylogeny. Trends in Ecology & Evolution 27:657-658.
+[link](http://www.sciencedirect.com/science/article/pii/S0169534712001899) -
+[pdf](../assets/pennell-tree-2012.pdf)
+
+- Pennell, M.W., C.R. Stansbury, L.P. Waits, and C.R. Miller. 2012. Capwire: a R package for estimating population census size from non-invasive genetic sampling. Molecular Ecology Resources 13:154-157.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12019/full) -
+[pdf](../assets/pennell-mer-2012.pdf)
 
 ## 2011
 
