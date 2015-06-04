@@ -18,7 +18,7 @@ layout: default
 
 - Harmon, L. J. and S. Harrison. 2015. Species diversity is dynamic and unbounded at local and continental scales. The American Naturalist 185: 584-593. [link](http://www.jstor.org/stable/info/10.1086/680859) - [pdf](../assets/HarmonandHarrison2015.pdf) - [counter argument] (http://www.jstor.org/stable/10.1086/680850)
 
-- Nuismer, S. L. and L. J. Harmon. 2015. Predicting rates of interspecific interaction from phylogenetic trees. Ecology Letters 18: 17-28. [link](http://onlinelibrary.wiley.com/doi/10.1111/ele.12384/abstract) - [pdf](../assets/NuismerandHarmon2015.pdf)
+- Nuismer, S. L. and L. J. Harmon. 2015. Predicting rates of interspecific interaction from phylogenetic trees. Ecology Letters 18: 17-28. [link](http://onlinelibrary.wiley.com/doi/10.1111/ele.12384/abstract) - [pdf](../assets/Nuismer_et_al-2015-Ecology_Letters.pdf)
 
 - Pennell, M.W. 2015. Modern Phylogenetic Comparative Methods and Their Application in Evolutionary Biology: Concepts and Practice.—Edited by László Zsolt Garamszegi (Book Review). Systematic Biology 64:161-163.
 [link](http://sysbio.oxfordjournals.org/content/64/1/161.short) -
@@ -33,7 +33,7 @@ layout: default
 
 - Rosindell, J., L. J. Harmon, and R. S. Etienne. 2015. Unifying ecology and macroevolution with individual-based theory. Ecology Letters 18: 472-482.
 [link](http://onlinelibrary.wiley.com/doi/10.1111/ele.12430/abstract) -
-[pdf](../assets/Rosindelletal2015.pdf)
+[pdf](../assets/Rosindell_et_al-2015-Ecology_Letters.pdf)
 
 - Tank, D. C., J. M. Eastman, M. W. Pennell, P. S. Soltis, D. E. Soltis, C. E. Hinchliff, J. W. Brown, and L. J. Harmon. In press. Nested radiations and the pulse of angiosperm diversification. New Phytologist.
 [link](http://onlinelibrary.wiley.com/doi/10.1111/nph.13491/abstract) -
@@ -57,7 +57,7 @@ layout: default
 
 - Davis, C. C., H. Schaefer, W. R. Anderson, Z. Xi, D. A. Baum, M. J. Donoghue, and L J. Harmon. 2014. Long-term morphological stasis maintained by a plant-pollinator mutualism. PNAS 111: 5914-5919.
 [link](http://www.pnas.org/content/111/16/5914.abstract) -
-[pdf](../assets/PNAS-2014-Davis-5914-9,pdf)
+[pdf](../assets/PNAS-2014-Davis-5914-9.pdf)
 
 - DesRoches, S., J. Torresdal, T. Morgan, L. J. Harmon, and E. B. Rosenblum. 2014. Beyond black and white: divergent behavior and performance in three rapidly evolving lizard species at White Sands. Biological Journal of the Linnean Society 111: 169-182.
 [link](http://onlinelibrary.wiley.com/doi/10.1111/bij.12165/abstract) -
@@ -82,7 +82,7 @@ layout: default
 
 - Pennell, M. W., J. M. Eastman, G. J. Slater, J. W. Brown, J. C. Uyeda, R. G. Fitzjohn, M. E. Alfaro, and L. J. Harmon. 2014. geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees. Bioinformatics 30: 2216-2218.
 [link](http://bioinformatics.oxfordjournals.org/content/30/15/2216) -
-[pdf](Bioinformatics-2014-Pennell-2216-8)
+[pdf](../assets/Bioinformatics-2014-Pennell-2216-8)
 
 - Pennell, M. W., L. J. Harmon, and J. C. Uyeda. 2014. Is there room for punctuated equilibrium in macroevolution? Trends in Ecology and Evolution 29: 23-32.
 [link](http://www.sciencedirect.com/science/article/pii/S0169534713001997) -
@@ -108,7 +108,7 @@ layout: default
 
 - Uyeda, J. C. and L. J. Harmon. 2014. A novel Bayesian method for inferring and interpreting the dynamics of adaptive landscapes from phylogenetic comparative data. Systematic Biology 63: 902-918.
 [link](http://sysbio.oxfordjournals.org/content/63/6/902) -
-[pdf](../assets/Syst Biol-2014-Uyeda-902-18)
+[pdf](../assets/Syst Biol-2014-Uyeda-902-18.pdf)
 
 - Wagner, C. E., L. J. Harmon, and O. Seehausen. 2014. Cichlid species-area curves are shaped by adaptive radiations that scale with area. Ecology Letters 17: 538-592.
 [link](http://onlinelibrary.wiley.com/doi/10.1111/ele.12260/abstract) -
@@ -121,7 +121,7 @@ layout: default
 
 - Eastman, J. M., L. J. Harmon, and D. C. Tank. 2013. Congruification: support for time-scaling large phylogenetic trees. Methods in Ecology and Evolution 4: 688-691.
 [link](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12051/abstract) -
-[pdf](Eastman_et_al-2013-Methods_in_Ecology_and_Evolution.pdf)
+[pdf](../assets/Eastman_et_al-2013-Methods_in_Ecology_and_Evolution.pdf)
 
 - Hardwick, K.M., J.M. Robertson, and E.B. Rosenblum. 2013. Asymmetrical mate preference in recently adapted white sands and black lava populations of Sceloporus undulatus. Current Zoology, Special Issue on Ecological Speciation, 59: 20-30.
 [link](http://www.currentzoology.org/paperdetail.asp?id=12181) -
@@ -129,11 +129,11 @@ layout: default
 
 - Harmon, L. J. 2013. Is character displacement central to ecology and evolutionary biology? Ecology 94: 2658-2659.
 [link](http://www.esajournals.org/doi/full/10.1890/0012-9658-94.11.2657) -
-[pdf](../assets/harmon-ecology-2014.pdf)
+[pdf](../assets/harmon-ecology-2013.pdf)
 
 - Harmon, L. J. 2013. “Convergent Evolution.” In Oxford Bibliographies in Evolutionary Biology. Ed. Jonathan Losos. New York: Oxford University Press.
 [link](http://www.oxfordbibliographies.com/view/document/obo-9780199941728/obo-9780199941728-0038.xml) -
-[pdf](Convergent Evolution - Evolutionary Biology - Oxford Bibliographies.pdf)
+[pdf](../assets/Convergent Evolution - Evolutionary Biology - Oxford Bibliographies.pdf)
 
 - Harmon, L. J. 2013. Macroevolutionary rates. In: J. B. Losos, Ed., The Princeton Guide to Evolution. Princeton University Press.
 [link to book](http://www.amazon.com/dp/B00F8MIII6/?tag=princetonuniv-20) -
@@ -175,7 +175,7 @@ layout: default
 
 - Ingram. T., L. J. Harmon, and J. B. Shurin. 2012. When should we expect early bursts of trait evolution in comparative data? Predictions from an evolutionary food web model. Journal of Evolutionary Biology 25: 1902-1910.
 [link](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2012.02566.x/abstract) -
-[pdf](ingrametal_2012.pdf)
+[pdf](../assets/ingrametal_2012.pdf)
 
 - Pennell, M.W. 2012. Biology in the light of phylogeny. Trends in Ecology & Evolution 27:657-658.
 [link](http://www.sciencedirect.com/science/article/pii/S0169534712001899) -
@@ -214,7 +214,7 @@ layout: default
 ## 2011
 - Akçay, C., W. Searcy, S.E. Campbell, V.A. Reed, C.N. Templeton, K.M. Hardwick, and M. Beecher. 2011. Who initiates extra-pair copulations in song sparrows? Behavioral Ecology 23: 44-50.
 [link](http://beheco.oxfordjournals.org/content/23/1/44.short) -
-[pdf](../assets/Behavioral Ecology-2012-Akçay-44-50)
+[pdf](../assets/Behavioral Ecology-2012-Akcay-44-50)
 
 - Brock, C. D. , L. J. Harmon, and M. E. Alfaro. 2011. Testing for Temporal Variation in Diversification Rates When Sampling is Incomplete and Nonrandom. Systematic Biology 60: 410-419.
 [link](http://sysbio.oxfordjournals.org/content/60/4/410) -
@@ -247,7 +247,7 @@ all [talks](http://vimeo.com/cee2011) from the meeting - [mine](http://vimeo.com
 
 - Rosenblum, E. B. and L. J. Harmon. 2011. Same same but different: replicated ecological speciation at White Sands. Evolution 65: 946-960.
 [link](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2010.01190.x/abstract) -
-[pdf](../Assets/rosenblumandharmon_2011.pdf)
+[pdf](../assets/rosenblumandharmon_2011.pdf)
 
 - Smith, K. L., L. J. Harmon, L. Shoo, and J. Melville. 2011. Evidence of constrained phenotypic evolution in a cryptic species complex of agamid lizards. Evolution 65: 976-992.
 [link](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2010.01211.x/abstract) -
