@@ -316,7 +316,7 @@ all [talks](http://vimeo.com/cee2011) from the meeting - [mine](http://vimeo.com
 
 - Nosil, P., L. J. Harmon, and O. Seehausen. 2009. Ecological explanations for (incomplete) speciation. Trends in Ecology and Evolution 24:145-156.
 [link](http://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(09)00024-X) -
-[pdf](pdf/../assets/Nosiletal,TREE2009.pdf)
+[pdf](pdf/../assets/NosiletalTREE2009.pdf)
 
 - Santini, F., L. J. Harmon, G. Carnevale, and M. E. Alfaro. 2009. Did genome duplication drive the origin of teleosts? A comparative study of diversification in ray-finned fishes. BMC Evlutionary Biology 9: 194.
 [OA](http://www.biomedcentral.com/1471-2148/9/194)
@@ -389,7 +389,7 @@ all [talks](http://vimeo.com/cee2011) from the meeting - [mine](http://vimeo.com
 
 - Kozak, K. H., A. Larson, R. M. Bonett, and L. J. Harmon. 2005. Phylogenetic analysis of ecomorphological divergence, species coexistence, and diversification rates in dusky salamanders (Plethodontidae, Desmognathinae). Evolution 59: 2000-2016.
 [link](http://www3.interscience.wiley.com/journal/118734825/abstract) -
-[pdf](../assets/pdf/kozak_evol05.pdf)
+[pdf](../assets/kozak_evol05.pdf)
 
 - Revell, L. J., L. J. Harmon, and R. E. Glor, 2005. Under-parameterized model of sequence evolution leads to bias in the estimation of diversification rates from molecular phylogenies. Systematic Biology 54: 973-983.
 [link](http://sysbio.oxfordjournals.org/content/54/6/973.short) -
@@ -417,4 +417,4 @@ all [talks](http://vimeo.com/cee2011) from the meeting - [mine](http://vimeo.com
 ## 1999
 
 - Kolbe, J. J., L. J. Harmon, and D. A. Warner. 1999. New state record lengths and associated natural history notes for some Illinois snakes. Transactions of the Illinois State Academy of Science 92:133-135.
-[pdf](../assets/pdf/kolbeetal.pdf)
+[pdf](../assets/kolbeetal.pdf)
