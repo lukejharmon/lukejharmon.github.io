@@ -36,6 +36,8 @@ layout: default
 [pdf](../assets/Rosindelletal2015.pdf)
 
 - Tank, D. C., J. M. Eastman, M. W. Pennell, P. S. Soltis, D. E. Soltis, C. E. Hinchliff, J. W. Brown, and L. J. Harmon. In press. Nested radiations and the pulse of angiosperm diversification. New Phytologist.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/nph.13491/abstract) -
+[pdf](../assets/Tank_et_al-2015-New_Phytologist.pdf)
 
 - Uyeda, J.C., D.S. Caetano, and M.W. Pennell. In press. Comparative analysis of principal components can be misleading. Systematic Biology. [link](http://sysbio.oxfordjournals.org/content/early/2015/04/03/sysbio.syv019.abstract) - [pdf](../assets/uyeda-sysbio-2015.pdf) -
 [github](https://github.com/mwpennell/phyloPCA)
@@ -210,28 +212,54 @@ layout: default
 [pdf](../assets/wagneretal_2012.pdf)
 
 ## 2011
-
-- Stack, J., L. J. Harmon, and B. O’Meara. 2011. RBrownie: An R package for testing hypotheses about rates of evolutionary change. Methods in Ecology and Evolution 2: 660-662.
-
-- Eastman, J. M., M. E. Alfaro, P. Joyce, A. L. Hipp, and L. J. Harmon. 2011. A novel comparative method for modeling shifts in the rate of character evolution on trees. Evolution 65: 3578-3589.
-
-- Eastman, J. M., L. J. Harmon, H.-J. La, P. Joyce, and L. J. Forney. 2011. The onion model, a simple neutral model for the evolution of diversity in bacterial biofilms. J. Evol. Biol. 11: 2496-2504.
-
-- Des Roches, S., J. M. Robertson, L. J. Harmon, and E. B. Rosenblum. 2011. Ecological release in white sands lizards. Ecology and Evolution 1: 571-578.
-
-- Davies, T. J., G. Smith, D. U. Bellstedt, J. Boatwright, B. Bytebier, R. Cowling, F. Forest, L. J. Harmon, A. M. Muasya, B. D. Schrire, Y. Steenkamp, M. van de Bank, and V. Savolainen. 2011. Extinction risk and diversification are linked in a plant biodiversity hotspot. PLoS Biology 9: e1000620.
-
-- Smith, K. L., L. J. Harmon, L. Shoo, and J. Melville. 2011. Evidence of constrained phenotypic evolution in a cryptic species complex of agamid lizards. Evolution 65: 976-992.
+- Akçay, C., W. Searcy, S.E. Campbell, V.A. Reed, C.N. Templeton, K.M. Hardwick, and M. Beecher. 2011. Who initiates extra-pair copulations in song sparrows? Behavioral Ecology 23: 44-50.
+[link](http://beheco.oxfordjournals.org/content/23/1/44.short) -
+[pdf](../assets/Behavioral Ecology-2012-Akçay-44-50)
 
 - Brock, C. D. , L. J. Harmon, and M. E. Alfaro. 2011. Testing for Temporal Variation in Diversification Rates When Sampling is Incomplete and Nonrandom. Systematic Biology 60: 410-419.
+[link](http://sysbio.oxfordjournals.org/content/60/4/410) -
+[pdf](../assets/brocketal_2011.pdf)
 
 - Carlson, B. A., S. M. Hasan, M. Hollmann, D. B. Miller, L. J. Harmon, and M. E. Arnegard. 2011. Brain evolution triggers explosive diversification of species and signals. Science 332: 583-586.
+[link](http://www.sciencemag.org/content/332/6029/583.abstract) -
+[pdf](../assets/carlsonetal_2011.pdf)
 
-- Rosenblum, E. B. and L. J. Harmon. 2011. Same same but different: replicated ecological speciation at White Sands. Evolution 65: 946-960.
+- Davies, T. J., G. Smith, D. U. Bellstedt, J. Boatwright, B. Bytebier, R. Cowling, F. Forest, L. J. Harmon, A. M. Muasya, B. D. Schrire, Y. Steenkamp, M. van de Bank, and V. Savolainen. 2011. Extinction risk and diversification are linked in a plant biodiversity hotspot. PLoS Biology 9: e1000620.
+[OA](http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.1000620)
 
-- McInnes, L., W. J. Baker, T. G. Barraclough, K. K. Dasmahapatra, A. Goswami, L. J. Harmon, H. Morlon, A. Purvis, J. Rosindell, G. H. Thomas, S. T. Turvey, and A. B. Phillimore. 2011. Integrating ecology into macroevolutionary research (meeting report). Biology Letters 7: 644-646.
+- Des Roches, S., J. M. Robertson, L. J. Harmon, and E. B. Rosenblum. 2011. Ecological release in white sands lizards. Ecology and Evolution 1: 571-578.
+[OA](http://onlinelibrary.wiley.com/doi/10.1002/ece3.50/abstract)
+
+- Eastman, J. M., M. E. Alfaro, P. Joyce, A. L. Hipp, and L. J. Harmon. 2011. A novel comparative method for modeling shifts in the rate of character evolution on trees. Evolution 65: 3578-3589.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01401.x/abstract) -
+[pdf](../assets/eastmanetal_2011_auteur.pdf)
+
+- Eastman, J. M., L. J. Harmon, H.-J. La, P. Joyce, and L. J. Forney. 2011. The onion model, a simple neutral model for the evolution of diversity in bacterial biofilms. J. Evol. Biol. 11: 2496-2504.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2011.02377.x/full) -
+[pdf](../assets/eastmanetal_2011_biofilms.pdf)
 
 - Harmon, L. J. 2011. My island life. In: J. B. Losos, editor. Evolution Emerging: Essays from Leading Evolutionary Biologists. Roberts & Company Publishers.
+[book](http://www.amazon.com/Light-Evolution-Essays-Laboratory-Field/dp/0981519490)
+
+- McInnes, L., W. J. Baker, T. G. Barraclough, K. K. Dasmahapatra, A. Goswami, L. J. Harmon, H. Morlon, A. Purvis, J. Rosindell, G. H. Thomas, S. T. Turvey, and A. B. Phillimore. 2011. Integrating ecology into macroevolutionary research (meeting report). Biology Letters 7: 644-646.
+[OA](http://rsbl.royalsocietypublishing.org/content/7/5/644) -
+all [talks](http://vimeo.com/cee2011) from the meeting - [mine](http://vimeo.com/21980903)
+
+- Rosenblum, E. B. and L. J. Harmon. 2011. Same same but different: replicated ecological speciation at White Sands. Evolution 65: 946-960.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2010.01190.x/abstract) -
+[pdf](../Assets/rosenblumandharmon_2011.pdf)
+
+- Smith, K. L., L. J. Harmon, L. Shoo, and J. Melville. 2011. Evidence of constrained phenotypic evolution in a cryptic species complex of agamid lizards. Evolution 65: 976-992.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2010.01211.x/abstract) -
+[pdf](../assets/smithetal_2011.pdf)
+
+- Stack, J., L. J. Harmon, and B. O’Meara. 2011. RBrownie: An R package for testing hypotheses about rates of evolutionary change. Methods in Ecology and Evolution 2: 660-662.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/j.2041-210X.2011.00112.x/full) -
+[pdf](../assets/Stack_et_al-2011-Methods_in_Ecology_and_Evolution.pdf)
+
+
+- Harmon, L. J. 2011. My island life. In: J. B. Losos, editor. Evolution Emerging: Essays from Leading Evolutionary Biologists. Roberts & Company Publishers.
+[book](http://www.amazon.com/Light-Evolution-Essays-Laboratory-Field/dp/0981519490)
 
 ## 2010
 
