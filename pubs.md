@@ -13,6 +13,8 @@ Also see my [google scholar](https://scholar.google.com/citations?hl=en&user=nsA
 - Des Roches, S., M. Brinkmeyer, L. J. Harmon, and E. B. Rosenblum. 2015. Ecological release and directional change in White Sands lizard trophic ecomorphology. Evolutionary Ecology 29: 1-16. [link](http://link.springer.com/article/10.1007%2Fs10682-014-9740-9) - [pdf](../assets/DesRochesetal2015.pdf)
 
 - Des Roches, S., L. J. Harmon. and E. B. Rosenblum. In press. Colonization of a novel depauperate habitat leads to trophic niche shifts in three desert lizard species. Oikos.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/oik.02493/abstract) -
+[pdf](../assets/des-roches-2015-oikos.pdf)
 
 - Hagey, T. J., N. Cole, D. Davidson, A. Henricks, L. L. Harmon, and L. J. Harmon. In press. Temporal Variation in Structural Microhabitat Use of Phelsuma Geckos in Mauritius. Journal of Herpetology.
 
