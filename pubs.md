@@ -412,7 +412,7 @@ all [talks](http://vimeo.com/cee2011) from the meeting - [mine](http://vimeo.com
 
 ## 2002
 
-- Harmon, L. J.  2002.  Some observations of the natural history of the prehensile-tailed skink, Corucia zebrata, in the Solomon Islands. Herpetological Review 33: 177-179.
+- Harmon, L. J.  2002.  Some observations of the natural history of the prehensile-tailed skink, Corucia zebrata, in the Solomon Islands. Herpetological Review 33: 177-179. [pdf](../assets/harmon_corucia_2002.pdf)
 
 ## 2000
 
