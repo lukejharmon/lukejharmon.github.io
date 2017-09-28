@@ -8,20 +8,39 @@ Also see my [google scholar](https://scholar.google.com/citations?hl=en&user=nsA
 
 ## 2017
 
+- Botero, C. A., L. J. Harmon, and Q. Atkinson. 2017. The promise and limits of eco-evolutionary studies of human culture. Religion, Brain & Behavior 7 (2), 153-155. [link]() - [pdf]().
+
+- Boucher, F. C., V. Démery, E. Conti, L. J. Harmon, and J. C. Uyeda. In press. A General Model For Estimating Macroevolutionary Landscapes. Systematic Biology. [link]() - [pdf]().
+
+- Caetano, D. S. and L. J. Harmon. 2017. Estimating correlated rates of trait evolution with uncertainty. bioRxiv, 102939. [OA]()
+
+- Duchen, P., C. Leuenberger, S. M. Szilágyi, L. J. Harmon, J. Eastman, M. Schweizer, and D. Wegmann. In press. Inference of evolutionary jumps in large phylogenies using Levy processes. Systematic Biology. [link]() - [pdf]().
+
+- Hagey, T. J., J. C. Uyeda, K. E. Crandell, J. A. Cheney, K. Autumn, and L. J. Harmon. In press. Tempo and mode of performance evolution across multiple independent origins of adhesive toe pads in lizards. Evolution. [link]() - [pdf]().
+
+- Harmon, L. J. 2017. Contingent Predictability in Mammalian Evolution. Current Biology 27 (11), R425-R428. [link]() - [pdf]().
+
+- Miller, E. T., D. N. Bonter, C. Eldermire, B. G. Freeman, E. I. Greig, L. J. Harmon, C. Lisle, and W. M. Hochachka. 2017. Fighting over food unites the birds of North America in a continental dominance hierarchy. bioRxiv, 104133. [OA]().
+
+- Miller, E. T., S. K. Wagner, L. J. Harmon, and R. E. Ricklefs. 2017. Radiating despite a Lack of Character: Ecological Divergence among Closely Related, Morphologically Similar Honeyeaters (Aves: Meliphagidae) Co-occurring in Arid Australian Environments. American Naturalist 189 (2), E14-E30. [link]() - [pdf]().
+
+- Weber, M. G., C. E. Wagner, R. J. Best, L. J. Harmon, and B. Matthews. In press. Evolution in a community context: on integrating ecological interactions and macroevolution. Trends in Ecology & Evolution. [link](http://www.sciencedirect.com/science/article/pii/S0169534717300162) - [pdf]({{ site.baseurl }}/assets/Weber_TREE2017.pdf).
+
 ## 2016
 
 - Des Roches, S., L. J. Harmon. and E. B. Rosenblum. 2016. Colonization of a novel depauperate habitat leads to trophic niche shifts in three desert lizard species. Oikos 125 (3), 343-353.
 [link](http://onlinelibrary.wiley.com/doi/10.1111/oik.02493/abstract) -
-[pdf](../assets/des-roches-2015-oikos.pdf)
+[pdf]({{ site.baseurl }}/assets/des-roches-2015-oikos.pdf)
 
-- Hagey, T. J., N. Cole, D. Davidson, A. Henricks, L. L. Harmon, and L. J. Harmon. 2016. Temporal Variation in Structural Microhabitat Use of *Phelsuma* Geckos in Mauritius. Journal of Herpetology 50 (1), 102-107.
+- Hagey, T. J., N. Cole, D. Davidson, A. Henricks, L. L. Harmon, and L. J. Harmon. 2016. Temporal Variation in Structural Microhabitat Use of *Phelsuma* Geckos in Mauritius. Journal of Herpetology 50 (1), 102-107. [link](http://www.bioone.org/doi/abs/10.1670/13-136) - [pdf]({{ site.baseurl }}/assets/hagey2016.pdf).
+
+- Uyeda, J. C., L. J. Harmon, and C. E. Blank. A comprehensive study of cyanobacterial morphological and ecological evolutionary dynamics through deep geologic time. PloS ONE 11 (9), e0162539. [OA](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162539)
 
 ## 2015
 
 - Deans, A. R. and 55 others. 2015. Finding our way through phenotypes. PLoS Biology 13: e1002033. [OA](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002033)
 
 - Des Roches, S., M. Brinkmeyer, L. J. Harmon, and E. B. Rosenblum. 2015. Ecological release and directional change in White Sands lizard trophic ecomorphology. Evolutionary Ecology 29: 1-16. [link](http://link.springer.com/article/10.1007%2Fs10682-014-9740-9) - [pdf](../assets/DesRochesetal2015.pdf)
-
 
 - Hardwick, K. M., L. J. Harmon, S. D. Hardwick, and E. B. Rosenblum. 2015. When field experiments yield unexpected results: lessons learned from measuring selection in White Sands lizards. PLoS ONE 10: e0118560. [OA](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118560)
 
