@@ -6,17 +6,22 @@ layout: default
 
 Also see my [google scholar](https://scholar.google.com/citations?hl=en&user=nsA3IsgAAAAJ&view_op=list_works) page
 
+## 2017
+
+## 2016
+
+- Des Roches, S., L. J. Harmon. and E. B. Rosenblum. 2016. Colonization of a novel depauperate habitat leads to trophic niche shifts in three desert lizard species. Oikos 125 (3), 343-353.
+[link](http://onlinelibrary.wiley.com/doi/10.1111/oik.02493/abstract) -
+[pdf](../assets/des-roches-2015-oikos.pdf)
+
+- Hagey, T. J., N. Cole, D. Davidson, A. Henricks, L. L. Harmon, and L. J. Harmon. 2016. Temporal Variation in Structural Microhabitat Use of *Phelsuma* Geckos in Mauritius. Journal of Herpetology 50 (1), 102-107.
+
 ## 2015
 
 - Deans, A. R. and 55 others. 2015. Finding our way through phenotypes. PLoS Biology 13: e1002033. [OA](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002033)
 
 - Des Roches, S., M. Brinkmeyer, L. J. Harmon, and E. B. Rosenblum. 2015. Ecological release and directional change in White Sands lizard trophic ecomorphology. Evolutionary Ecology 29: 1-16. [link](http://link.springer.com/article/10.1007%2Fs10682-014-9740-9) - [pdf](../assets/DesRochesetal2015.pdf)
 
-- Des Roches, S., L. J. Harmon. and E. B. Rosenblum. In press. Colonization of a novel depauperate habitat leads to trophic niche shifts in three desert lizard species. Oikos.
-[link](http://onlinelibrary.wiley.com/doi/10.1111/oik.02493/abstract) -
-[pdf](../assets/des-roches-2015-oikos.pdf)
-
-- Hagey, T. J., N. Cole, D. Davidson, A. Henricks, L. L. Harmon, and L. J. Harmon. In press. Temporal Variation in Structural Microhabitat Use of Phelsuma Geckos in Mauritius. Journal of Herpetology.
 
 - Hardwick, K. M., L. J. Harmon, S. D. Hardwick, and E. B. Rosenblum. 2015. When field experiments yield unexpected results: lessons learned from measuring selection in White Sands lizards. PLoS ONE 10: e0118560. [OA](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118560)
 
@@ -28,7 +33,7 @@ Also see my [google scholar](https://scholar.google.com/citations?hl=en&user=nsA
 [link](http://sysbio.oxfordjournals.org/content/64/1/161.short) -
 [pdf](../assets/pennell-sysbio-2015.pdf)
 
-- Pennell, M. W., R. G. FitzJohn, W. K. Cornwell, and L. J. Harmon. In press. Model adequacy and the macroevolution of angiosperm functional traits. American Naturalist.
+- Pennell, M. W., R. G. FitzJohn, W. K. Cornwell, and L. J. Harmon. 2015. Model adequacy and the macroevolution of angiosperm functional traits. American Naturalist 186 (2), E33-E50.
 [preprint](http://biorxiv.org/content/early/2014/10/31/004002) -
 [github](https://github.com/richfitz/modeladequacy) -
 [poster](http://figshare.com/articles/_In_adequacy_of_phylogenetic_trait_models_Evo_Wibo_poster_/1008468)

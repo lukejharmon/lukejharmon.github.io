@@ -16,6 +16,8 @@ layout: default
 <img src="../images/travis.jpg" alt="Travis" style="width: 128px;"/><br>
 <a href="http://travis-hagey.weebly.com/">Travis Hagey</a>
 
+<img src="../images/daniel.jpg" alt="Daniel" style="width: 128px;"/><br>
+<a href="http://caetanods.weebly.com/">Daniel Caetano</a>
 
 ### Former postdocs
 
@@ -33,3 +35,15 @@ Jon Eastman
 
 <img src="../images/katie.jpg" alt="Katie" style="width: 128px;"/><br>
 Katie Wagner
+
+<img src="../images/josef.jpg" alt="Josef" style="width: 128px;"/><br>
+<a href="http://uyedaj.github.io/">Josef Uyeda</a>
+
+<img src="../images/rafael.jpg" alt="Rafael" style="width: 128px;"/><br>
+<a href="http://rafaelmaia.net/">Rafael Maia</a>
+
+<img src="../images/cody.jpg" alt="Cody" style="width: 128px;"/><br>
+Cody Hinchliff
+
+<img src="../images/eliot.jpg" alt="Eliot" style="width: 128px;"/><br>
+<a href="http://www.umsl.edu/~emmq7/">Eliot Miller</a>
