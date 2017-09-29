@@ -8,21 +8,21 @@ Also see my [google scholar](https://scholar.google.com/citations?hl=en&user=nsA
 
 ## 2017
 
-- Botero, C. A., L. J. Harmon, and Q. Atkinson. 2017. The promise and limits of eco-evolutionary studies of human culture. Religion, Brain & Behavior 7 (2), 153-155. [link]() - [pdf]().
+- Botero, C. A., L. J. Harmon, and Q. Atkinson. 2017. The promise and limits of eco-evolutionary studies of human culture. Religion, Brain & Behavior 7 (2), 153-155. [link](http://www.tandfonline.com/doi/abs/10.1080/2153599X.2015.1132249?journalCode=rrbb20) - [pdf]({{ site.baseurl }}/assets/botero2016.pdf).
 
-- Boucher, F. C., V. Démery, E. Conti, L. J. Harmon, and J. C. Uyeda. In press. A General Model For Estimating Macroevolutionary Landscapes. Systematic Biology. [link]() - [pdf]().
+- Boucher, F. C., V. Démery, E. Conti, L. J. Harmon, and J. C. Uyeda. In press. A General Model For Estimating Macroevolutionary Landscapes. Systematic Biology. [link](https://academic.oup.com/sysbio/article-abstract/4210009/A-General-Model-For-Estimating-Macroevolutionary) - [pdf]().
 
-- Caetano, D. S. and L. J. Harmon. 2017. Estimating correlated rates of trait evolution with uncertainty. bioRxiv, 102939. [OA]()
+- Caetano, D. S. and L. J. Harmon. 2017. Estimating correlated rates of trait evolution with uncertainty. bioRxiv, 102939. [OA](https://www.biorxiv.org/content/early/2017/01/25/102939)
 
-- Duchen, P., C. Leuenberger, S. M. Szilágyi, L. J. Harmon, J. Eastman, M. Schweizer, and D. Wegmann. In press. Inference of evolutionary jumps in large phylogenies using Levy processes. Systematic Biology. [link]() - [pdf]().
+- Duchen, P., C. Leuenberger, S. M. Szilágyi, L. J. Harmon, J. Eastman, M. Schweizer, and D. Wegmann. In press. Inference of evolutionary jumps in large phylogenies using Levy processes. Systematic Biology. [OA](https://academic.oup.com/sysbio/article/2999289).
 
-- Hagey, T. J., J. C. Uyeda, K. E. Crandell, J. A. Cheney, K. Autumn, and L. J. Harmon. In press. Tempo and mode of performance evolution across multiple independent origins of adhesive toe pads in lizards. Evolution. [link]() - [pdf]().
+- Hagey, T. J., J. C. Uyeda, K. E. Crandell, J. A. Cheney, K. Autumn, and L. J. Harmon. In press. Tempo and mode of performance evolution across multiple independent origins of adhesive toe pads in lizards. Evolution. [link](http://onlinelibrary.wiley.com/doi/10.1111/evo.13318/full) - [pdf]({{ site.baseurl }}/assets/hageyetal2017.pdf).
 
-- Harmon, L. J. 2017. Contingent Predictability in Mammalian Evolution. Current Biology 27 (11), R425-R428. [link]() - [pdf]().
+- Harmon, L. J. 2017. Contingent Predictability in Mammalian Evolution. Current Biology 27 (11), R425-R428. [link](http://www.sciencedirect.com/science/article/pii/S0960982217304220) - [pdf]({{ site.baseurl }}/assets/harmon2017.pdf).
 
-- Miller, E. T., D. N. Bonter, C. Eldermire, B. G. Freeman, E. I. Greig, L. J. Harmon, C. Lisle, and W. M. Hochachka. 2017. Fighting over food unites the birds of North America in a continental dominance hierarchy. bioRxiv, 104133. [OA]().
+- Miller, E. T., D. N. Bonter, C. Eldermire, B. G. Freeman, E. I. Greig, L. J. Harmon, C. Lisle, and W. M. Hochachka. 2017. Fighting over food unites the birds of North America in a continental dominance hierarchy. bioRxiv, 104133. [OA](https://www.biorxiv.org/content/early/2017/01/30/104133).
 
-- Miller, E. T., S. K. Wagner, L. J. Harmon, and R. E. Ricklefs. 2017. Radiating despite a Lack of Character: Ecological Divergence among Closely Related, Morphologically Similar Honeyeaters (Aves: Meliphagidae) Co-occurring in Arid Australian Environments. American Naturalist 189 (2), E14-E30. [link]() - [pdf]().
+- Miller, E. T., S. K. Wagner, L. J. Harmon, and R. E. Ricklefs. 2017. Radiating despite a Lack of Character: Ecological Divergence among Closely Related, Morphologically Similar Honeyeaters (Aves: Meliphagidae) Co-occurring in Arid Australian Environments. American Naturalist 189 (2), E14-E30. [link](http://www.journals.uchicago.edu/doi/abs/10.1086/690008) - [pdf]({{ site.baseurl }}/assets/miller2016.pdf).
 
 - Weber, M. G., C. E. Wagner, R. J. Best, L. J. Harmon, and B. Matthews. In press. Evolution in a community context: on integrating ecological interactions and macroevolution. Trends in Ecology & Evolution. [link](http://www.sciencedirect.com/science/article/pii/S0169534717300162) - [pdf]({{ site.baseurl }}/assets/Weber_TREE2017.pdf).
 
