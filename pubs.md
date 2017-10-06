@@ -10,7 +10,7 @@ Also see my [google scholar](https://scholar.google.com/citations?hl=en&user=nsA
 
 - Botero, C. A., L. J. Harmon, and Q. Atkinson. 2017. The promise and limits of eco-evolutionary studies of human culture. Religion, Brain & Behavior 7 (2), 153-155. [link](http://www.tandfonline.com/doi/abs/10.1080/2153599X.2015.1132249?journalCode=rrbb20) - [pdf]({{ site.baseurl }}/assets/botero2016.pdf).
 
-- Boucher, F. C., V. Démery, E. Conti, L. J. Harmon, and J. C. Uyeda. In press. A General Model For Estimating Macroevolutionary Landscapes. Systematic Biology. [link](https://academic.oup.com/sysbio/article-abstract/4210009/A-General-Model-For-Estimating-Macroevolutionary) - [pdf]().
+- Boucher, F. C., V. Démery, E. Conti, L. J. Harmon, and J. C. Uyeda. In press. A General Model For Estimating Macroevolutionary Landscapes. Systematic Biology. [link](https://academic.oup.com/sysbio/article-abstract/4210009/A-General-Model-For-Estimating-Macroevolutionary).
 
 - Caetano, D. S. and L. J. Harmon. 2017. Estimating correlated rates of trait evolution with uncertainty. bioRxiv, 102939. [OA](https://www.biorxiv.org/content/early/2017/01/25/102939)
 
