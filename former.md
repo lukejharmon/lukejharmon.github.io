@@ -4,6 +4,9 @@ layout: default
 
 ### Former graduate students
 
+<img src="../images/denim.jpg" alt="Denim" style="width: 128px;"/><br>
+Denim Jochimsen
+
 <img src="../images/matt.jpg" alt="Matt" style="width: 128px;"/><br>
 <a href="http://mwpennell.github.io/">Matt Pennell</a>
 
