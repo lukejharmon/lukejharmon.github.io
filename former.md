@@ -21,6 +21,9 @@ layout: default
 
 ### Former postdocs
 
+<img src="../images/rosana.jpg" alt="Rosana" style="width: 128px;"/><br>
+[Rosana Zenil-Ferguson](https://roszenil.github.io/)
+
 <img src="../images/jon_eastman.jpg" alt="Jon" style="width: 128px;"/><br>
 Jon Eastman
 
